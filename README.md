@@ -17,7 +17,7 @@ The repository includes the following Jupyter notebooks and supporting files:
 - **`05-word-embedding-training.ipynb`**  
   Training scripts for Word2Vec and fastText models using the cleaned tweet corpus.
 - **`06-word-embedding-visualization.ipynb`**  
-  Visualization of trained word embeddings using dimensionality reduction techniques (e.g., t-SNE).
+  Visualization of trained word embeddings using dimensionality reduction techniques.
 - **`nrc_id.json`**  
   Indonesian NRC Emotion Lexicon used for lexicon-based annotation.
 
