@@ -22,7 +22,7 @@ The repository includes the following Jupyter notebooks and supporting files:
   Indonesian NRC Emotion Lexicon used for lexicon-based annotation.
 
 ## How to Cite This Dataset
-Setyo Nugroho, Kuncahyo; Abdurrachman Bachtiar, Fitra; Firdaus Mahmudy, Wayan; Martianus Henry, Matthew; Isnan, Mahmud; Pangestu, Gusti; Pardamean, Bens (2025), *EmoTweetID: Indonesian Emotion Tweet Dataset*, Mendeley Data, V2,  doi: [10.17632/jzgnjsff9f.2](https://doi.org/10.17632/jzgnjsff9f.2)
+Setyo Nugroho, Kuncahyo; Abdurrachman Bachtiar, Fitra; Firdaus Mahmudy, Wayan; Martianus Henry, Matthew; Isnan, Mahmud; Pangestu, Gusti; Pardamean, Bens (2025), *EmoTweetID: Indonesian Emotion Tweet Dataset*, Mendeley Data, V2,  doi: [10.17632/jzgnjsff9f.3](https://doi.org/10.17632/jzgnjsff9f.3)
 
 ## Acknowledgment
 1. Intelligent Systems Lab, Faculty of Computer Science, Brawijaya University, Indonesia
