@@ -1,0 +1,10864 @@
+{
+	"abadi": [
+		"joy",
+		"sadness"
+	],
+	"abnormal": [
+		"disgust"
+	],
+	"aborsi": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"abses": [
+		"sadness"
+	],
+	"abu": [
+		"sadness"
+	],
+	"abu-abu": [
+		"disgust",
+		"sadness"
+	],
+	"adil": [
+		"joy"
+	],
+	"adonan": [
+		"anger",
+		"fear"
+	],
+	"afirmasi": [
+		"joy"
+	],
+	"aga": [
+		"fear"
+	],
+	"agar-agar": [
+		"disgust"
+	],
+	"agitasi": [
+		"anger"
+	],
+	"agresi": [
+		"anger",
+		"fear"
+	],
+	"agresif": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"agung": [
+		"joy",
+		"surprise"
+	],
+	"aib": [
+		"disgust",
+		"sadness"
+	],
+	"air kotor": [
+		"disgust"
+	],
+	"ajaib": [
+		"joy",
+		"surprise"
+	],
+	"akademi": [
+		"joy"
+	],
+	"akademik": [
+		"joy"
+	],
+	"akrab": [
+		"joy"
+	],
+	"akrobat": [
+		"fear",
+		"joy"
+	],
+	"alarm": [
+		"fear",
+		"surprise"
+	],
+	"algojo": [
+		"fear"
+	],
+	"alien": [
+		"disgust",
+		"fear"
+	],
+	"alkoholisme": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"almarhum": [
+		"sadness"
+	],
+	"aloha": [
+		"joy"
+	],
+	"alur": [
+		"sadness"
+	],
+	"amal": [
+		"joy"
+	],
+	"aman": [
+		"joy"
+	],
+	"amarah": [
+		"anger"
+	],
+	"ambang": [
+		"fear"
+	],
+	"ambisi": [
+		"joy"
+	],
+	"ambulans": [
+		"fear"
+	],
+	"amfetamin": [
+		"disgust"
+	],
+	"amin": [
+		"joy"
+	],
+	"amnesia": [
+		"sadness"
+	],
+	"amonia": [
+		"disgust"
+	],
+	"anak laki-laki": [
+		"disgust"
+	],
+	"anak muda": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"anak panah": [
+		"fear"
+	],
+	"anak perempuan": [
+		"joy"
+	],
+	"anak sapi": [
+		"joy"
+	],
+	"anak yatim piatu": [
+		"fear",
+		"sadness"
+	],
+	"anak yatim": [
+		"fear",
+		"sadness"
+	],
+	"anak": [
+		"joy"
+	],
+	"anakonda": [
+		"disgust",
+		"fear"
+	],
+	"anarki": [
+		"anger",
+		"fear"
+	],
+	"anarkis": [
+		"anger",
+		"fear"
+	],
+	"anarkisme": [
+		"anger",
+		"fear"
+	],
+	"ancaman": [
+		"anger",
+		"fear"
+	],
+	"aneh": [
+		"joy"
+	],
+	"anggun": [
+		"joy"
+	],
+	"angin musim": [
+		"sadness"
+	],
+	"angin puyuh": [
+		"fear"
+	],
+	"angin topan": [
+		"fear"
+	],
+	"angina": [
+		"fear"
+	],
+	"angkuh": [
+		"anger"
+	],
+	"animasi": [
+		"joy"
+	],
+	"anjing betina": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"anjing hutan": [
+		"fear"
+	],
+	"anomali": [
+		"fear",
+		"surprise"
+	],
+	"antagonistis": [
+		"anger",
+		"disgust"
+	],
+	"antar": [
+		"sadness"
+	],
+	"antikristus": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"antipati": [
+		"anger",
+		"disgust"
+	],
+	"antisosial": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"antitesis": [
+		"anger"
+	],
+	"antraks": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"antusiasme": [
+		"joy",
+		"surprise"
+	],
+	"anugerah": [
+		"joy",
+		"surprise"
+	],
+	"anumerta": [
+		"sadness"
+	],
+	"apache": [
+		"fear"
+	],
+	"apak": [
+		"disgust"
+	],
+	"apatis": [
+		"sadness"
+	],
+	"api penyucian": [
+		"disgust",
+		"fear"
+	],
+	"api": [
+		"fear"
+	],
+	"apresiasi": [
+		"joy"
+	],
+	"argumen": [
+		"anger"
+	],
+	"argumentasi": [
+		"anger"
+	],
+	"arogan": [
+		"anger",
+		"disgust"
+	],
+	"arsenik": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"artileri": [
+		"fear"
+	],
+	"asimetri": [
+		"disgust"
+	],
+	"asli": [
+		"joy"
+	],
+	"asmara": [
+		"joy"
+	],
+	"asp": [
+		"fear"
+	],
+	"aspirasi": [
+		"joy",
+		"surprise"
+	],
+	"asusila": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"aterosklerosis": [
+		"fear",
+		"sadness"
+	],
+	"atropia": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"aturan": [
+		"fear"
+	],
+	"auditor": [
+		"fear"
+	],
+	"autopsi": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"awas": [
+		"fear"
+	],
+	"ayam": [
+		"fear"
+	],
+	"babi": [
+		"disgust"
+	],
+	"babun": [
+		"disgust"
+	],
+	"badai": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"badut": [
+		"joy",
+		"surprise"
+	],
+	"bagal": [
+		"anger"
+	],
+	"bagus sekali": [
+		"joy",
+		"surprise"
+	],
+	"bagus": [
+		"joy",
+		"surprise"
+	],
+	"bah": [
+		"disgust"
+	],
+	"bahagia": [
+		"joy"
+	],
+	"bahan tertawaan": [
+		"surprise"
+	],
+	"bahaya": [
+		"fear",
+		"sadness"
+	],
+	"bahenol": [
+		"joy"
+	],
+	"baik": [
+		"joy"
+	],
+	"bajingan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"baju zirah": [
+		"fear"
+	],
+	"bakat": [
+		"joy"
+	],
+	"bakteri": [
+		"disgust",
+		"fear"
+	],
+	"balas dendam": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"banci": [
+		"disgust"
+	],
+	"bandel": [
+		"anger",
+		"disgust"
+	],
+	"bangga": [
+		"joy"
+	],
+	"bangkai": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bangkrut": [
+		"fear",
+		"sadness"
+	],
+	"bangku": [
+		"disgust"
+	],
+	"banjir": [
+		"fear"
+	],
+	"banshee": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bantuan": [
+		"joy",
+		"surprise"
+	],
+	"bar": [
+		"anger"
+	],
+	"barang selundupan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"barang": [
+		"fear"
+	],
+	"barangkali": [
+		"surprise"
+	],
+	"barbar": [
+		"fear"
+	],
+	"baris": [
+		"anger"
+	],
+	"basi": [
+		"sadness"
+	],
+	"batalyon": [
+		"anger"
+	],
+	"batang paku": [
+		"fear"
+	],
+	"batas": [
+		"fear"
+	],
+	"batasan": [
+		"fear",
+		"anger",
+		"sadness"
+	],
+	"baterai": [
+		"anger"
+	],
+	"batu sandungan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"batu": [
+		"anger"
+	],
+	"batuk": [
+		"disgust"
+	],
+	"bau tajam": [
+		"disgust"
+	],
+	"bau tidak sedap": [
+		"disgust"
+	],
+	"bau": [
+		"anger",
+		"disgust"
+	],
+	"bawaan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bawah": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"bawahan": [
+		"fear"
+	],
+	"bayi": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"beasiswa": [
+		"joy"
+	],
+	"beban": [
+		"disgust",
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"bebas": [
+		"joy"
+	],
+	"begundal": [
+		"anger"
+	],
+	"behemot": [
+		"fear"
+	],
+	"bejat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bekam": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bekas luka": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"bekas": [
+		"anger"
+	],
+	"bekerja keras": [
+		"sadness"
+	],
+	"bekerja": [
+		"joy",
+		"sadness"
+	],
+	"bela diri": [
+		"anger"
+	],
+	"belahan jiwa": [
+		"fear"
+	],
+	"belajar": [
+		"joy"
+	],
+	"belalang": [
+		"fear"
+	],
+	"belanja": [
+		"joy",
+		"surprise"
+	],
+	"belasungkawa": [
+		"sadness"
+	],
+	"belati": [
+		"fear"
+	],
+	"belatung": [
+		"disgust"
+	],
+	"belenggu": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"belerang": [
+		"anger",
+		"fear"
+	],
+	"belum dibayar": [
+		"anger",
+		"sadness"
+	],
+	"belum dicuci": [
+		"disgust"
+	],
+	"bencana": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"benci": [
+		"anger",
+		"disgust"
+	],
+	"bengkak": [
+		"sadness"
+	],
+	"benteng pertahanan": [
+		"anger"
+	],
+	"benteng": [
+		"anger",
+		"disgust"
+	],
+	"bentrok": [
+		"anger",
+		"fear"
+	],
+	"bentrokan": [
+		"anger"
+	],
+	"beracun": [
+		"disgust"
+	],
+	"beradab": [
+		"joy"
+	],
+	"beradu": [
+		"anger",
+		"fear"
+	],
+	"beragam": [
+		"joy"
+	],
+	"berakhir": [
+		"sadness"
+	],
+	"berambisi": [
+		"joy"
+	],
+	"berandal": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"berangkat": [
+		"sadness"
+	],
+	"berani": [
+		"joy"
+	],
+	"berantakan": [
+		"disgust"
+	],
+	"berat": [
+		"fear"
+	],
+	"berawa": [
+		"disgust",
+		"fear"
+	],
+	"berawan": [
+		"sadness"
+	],
+	"berbagi": [
+		"joy"
+	],
+	"berbahaya": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"berbakat": [
+		"joy",
+		"surprise"
+	],
+	"berbau tidak sedap": [
+		"disgust"
+	],
+	"berbau": [
+		"disgust"
+	],
+	"berbeda": [
+		"surprise"
+	],
+	"berbisa": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"berbohong": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"berbuat curang": [
+		"sadness"
+	],
+	"berbuat dosa": [
+		"disgust"
+	],
+	"berbuat salah": [
+		"anger",
+		"sadness"
+	],
+	"berbudi luhur": [
+		"joy"
+	],
+	"berbulu": [
+		"disgust"
+	],
+	"bercanda": [
+		"joy"
+	],
+	"bercinta": [
+		"joy"
+	],
+	"bercita-cita": [
+		"joy"
+	],
+	"berdarah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"berdebar": [
+		"anger",
+		"fear"
+	],
+	"berdenyut": [
+		"fear",
+		"sadness"
+	],
+	"berdetak": [
+		"fear",
+		"sadness"
+	],
+	"berdoa": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"berduka": [
+		"sadness"
+	],
+	"berduri": [
+		"fear"
+	],
+	"berebut": [
+		"sadness"
+	],
+	"berenang": [
+		"fear",
+		"joy"
+	],
+	"berengsek": [
+		"anger",
+		"disgust"
+	],
+	"bergelut": [
+		"joy"
+	],
+	"bergembira sekali": [
+		"joy",
+		"surprise"
+	],
+	"bergizi": [
+		"sadness"
+	],
+	"bergolak": [
+		"fear"
+	],
+	"bergumam": [
+		"anger"
+	],
+	"berguna": [
+		"joy"
+	],
+	"berhantu": [
+		"fear",
+		"sadness"
+	],
+	"berharga": [
+		"joy"
+	],
+	"berhasil": [
+		"joy"
+	],
+	"berhasrat": [
+		"disgust"
+	],
+	"berhati-hati": [
+		"fear"
+	],
+	"berhenti": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"berhutang": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"berimprovisasi": [
+		"surprise"
+	],
+	"berinovasi": [
+		"joy",
+		"surprise"
+	],
+	"berirama": [
+		"joy",
+		"surprise"
+	],
+	"berisiko": [
+		"fear"
+	],
+	"berita kematian": [
+		"sadness"
+	],
+	"berjaya": [
+		"joy"
+	],
+	"berjongkok": [
+		"fear"
+	],
+	"berjuang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"berjudi": [
+		"surprise"
+	],
+	"berjumbai": [
+		"sadness"
+	],
+	"berkah": [
+		"joy"
+	],
+	"berkecil hati": [
+		"sadness"
+	],
+	"berkelahi": [
+		"anger"
+	],
+	"berkembang": [
+		"joy"
+	],
+	"berkerudung": [
+		"fear"
+	],
+	"berkerut": [
+		"sadness"
+	],
+	"berkhayal": [
+		"anger",
+		"fear"
+	],
+	"berkilau": [
+		"joy",
+		"surprise"
+	],
+	"berkomitmen": [
+		"joy"
+	],
+	"berkonsultasi": [
+		"joy"
+	],
+	"berkubang": [
+		"disgust",
+		"sadness"
+	],
+	"berkurang": [
+		"sadness"
+	],
+	"berlatih": [
+		"joy",
+		"surprise"
+	],
+	"berlawanan": [
+		"anger"
+	],
+	"berlemak": [
+		"disgust",
+		"sadness"
+	],
+	"berlendir": [
+		"disgust"
+	],
+	"berlian": [
+		"joy"
+	],
+	"berlimpah": [
+		"joy"
+	],
+	"berlumpur": [
+		"disgust"
+	],
+	"bermalas-malasan": [
+		"sadness"
+	],
+	"bermanfaat": [
+		"joy"
+	],
+	"bermeditasi": [
+		"joy"
+	],
+	"berminyak": [
+		"disgust"
+	],
+	"bermuka dua": [
+		"anger"
+	],
+	"bermuka masam": [
+		"anger",
+		"disgust"
+	],
+	"bermusuhan": [
+		"anger",
+		"sadness"
+	],
+	"berongga": [
+		"sadness"
+	],
+	"berpagar": [
+		"anger"
+	],
+	"berpelukan": [
+		"joy"
+	],
+	"berpendar": [
+		"joy"
+	],
+	"berpendidikan": [
+		"joy"
+	],
+	"berperang": [
+		"anger",
+		"fear"
+	],
+	"berprasangka": [
+		"disgust",
+		"fear"
+	],
+	"berpura-pura": [
+		"anger"
+	],
+	"berputus asa": [
+		"fear",
+		"sadness"
+	],
+	"bersahaja": [
+		"joy"
+	],
+	"bersalah": [
+		"anger",
+		"sadness"
+	],
+	"bersatu": [
+		"joy",
+		"surprise"
+	],
+	"bersedih": [
+		"fear",
+		"sadness"
+	],
+	"bersekongkol": [
+		"fear"
+	],
+	"bersemangat": [
+		"joy",
+		"surprise"
+	],
+	"bersembunyi": [
+		"fear"
+	],
+	"bersenang-senang": [
+		"joy"
+	],
+	"bersenda gurau": [
+		"joy",
+		"surprise"
+	],
+	"bersenjata": [
+		"anger",
+		"fear"
+	],
+	"berseri": [
+		"joy"
+	],
+	"berseri-seri": [
+		"joy"
+	],
+	"berseru": [
+		"surprise"
+	],
+	"bersih": [
+		"joy"
+	],
+	"bersin": [
+		"disgust",
+		"surprise"
+	],
+	"bersorak": [
+		"joy"
+	],
+	"bersuka cita": [
+		"joy",
+		"surprise"
+	],
+	"bersuka ria": [
+		"joy"
+	],
+	"bersumpah": [
+		"joy"
+	],
+	"bersyukur": [
+		"joy"
+	],
+	"bertakhyul": [
+		"fear"
+	],
+	"bertarung": [
+		"anger",
+		"fear"
+	],
+	"bertebaran": [
+		"sadness"
+	],
+	"berteman": [
+		"joy"
+	],
+	"bertengkar": [
+		"anger"
+	],
+	"bertentangan": [
+		"sadness"
+	],
+	"berteriak": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"berterima kasih": [
+		"joy"
+	],
+	"bertunangan": [
+		"joy"
+	],
+	"beruang": [
+		"anger",
+		"fear"
+	],
+	"berubah warna": [
+		"disgust",
+		"sadness"
+	],
+	"beruban": [
+		"fear"
+	],
+	"beruntung": [
+		"joy",
+		"surprise"
+	],
+	"biadab": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"biaya": [
+		"anger"
+	],
+	"bidan": [
+		"joy"
+	],
+	"bijak": [
+		"joy"
+	],
+	"bijaksana": [
+		"joy"
+	],
+	"bimbang": [
+		"fear"
+	],
+	"binar": [
+		"joy"
+	],
+	"binasa": [
+		"fear",
+		"sadness"
+	],
+	"binatang buas": [
+		"anger",
+		"fear"
+	],
+	"bingung": [
+		"fear",
+		"sadness"
+	],
+	"bintik": [
+		"disgust"
+	],
+	"biopsi": [
+		"fear"
+	],
+	"bir": [
+		"joy"
+	],
+	"birokrat": [
+		"disgust"
+	],
+	"bisa ular": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"bising": [
+		"anger"
+	],
+	"blight": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"blokade": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"bobrok": [
+		"disgust",
+		"sadness"
+	],
+	"bocor": [
+		"sadness"
+	],
+	"bocoran": [
+		"sadness"
+	],
+	"bodoh": [
+		"fear",
+		"anger",
+		"sadness"
+	],
+	"bohong": [
+		"anger",
+		"disgust"
+	],
+	"bola basket": [
+		"joy"
+	],
+	"bom": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"boneka": [
+		"joy"
+	],
+	"bonus": [
+		"joy",
+		"surprise"
+	],
+	"bordil": [
+		"disgust"
+	],
+	"boros": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"brutal": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"bruto": [
+		"disgust"
+	],
+	"buaian": [
+		"joy"
+	],
+	"buas": [
+		"fear",
+		"sadness",
+		"disgust"
+	],
+	"buaya": [
+		"fear"
+	],
+	"bubuk mesiu": [
+		"fear"
+	],
+	"bubuk senjata": [
+		"fear"
+	],
+	"budak": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"bujukan": [
+		"sadness"
+	],
+	"buket": [
+		"joy"
+	],
+	"buku harian": [
+		"joy"
+	],
+	"bulan madu": [
+		"joy",
+		"surprise"
+	],
+	"bulu domba": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"bulu mata": [
+		"anger",
+		"fear"
+	],
+	"bunga": [
+		"joy"
+	],
+	"bungkam": [
+		"fear"
+	],
+	"bunker": [
+		"fear"
+	],
+	"bunuh diri": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"bunyi keras": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"buram": [
+		"sadness"
+	],
+	"buronan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"buruan": [
+		"fear"
+	],
+	"buruk rupa": [
+		"disgust"
+	],
+	"buruk sekali": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"buruk": [
+		"sadness",
+		"fear"
+	],
+	"busuk": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"buta huruf": [
+		"disgust"
+	],
+	"buta": [
+		"fear",
+		"sadness"
+	],
+	"cabul": [
+		"disgust"
+	],
+	"cacat": [
+		"fear",
+		"sadness"
+	],
+	"cacian": [
+		"anger",
+		"disgust"
+	],
+	"cacing hati": [
+		"disgust"
+	],
+	"cacing": [
+		"surprise"
+	],
+	"cad": [
+		"anger",
+		"disgust"
+	],
+	"cahaya bintang": [
+		"joy"
+	],
+	"cahaya matahari": [
+		"joy"
+	],
+	"cahaya redup": [
+		"joy",
+		"surprise"
+	],
+	"cakar": [
+		"anger",
+		"fear"
+	],
+	"cambuk": [
+		"anger",
+		"sandness"
+	],
+	"campak": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"candaan": [
+		"joy"
+	],
+	"candu": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"canggung": [
+		"disgust"
+	],
+	"cangkir": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"cantik": [
+		"joy"
+	],
+	"cedera": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"cekikikan": [
+		"joy"
+	],
+	"celah": [
+		"fear",
+		"sadness"
+	],
+	"cemas": [
+		"sadness",
+		"fear"
+	],
+	"cemberut": [
+		"anger",
+		"sadness"
+	],
+	"cemburu": [
+		"anger",
+		"disgust"
+	],
+	"cemerlang": [
+		"joy"
+	],
+	"cemooh": [
+		"anger"
+	],
+	"cendekiawan": [
+		"joy"
+	],
+	"cepat": [
+		"joy"
+	],
+	"cerah": [
+		"joy",
+		"surprise"
+	],
+	"cercaan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"cerdas": [
+		"joy"
+	],
+	"cerdik": [
+		"joy"
+	],
+	"cerewet": [
+		"disgust"
+	],
+	"ceria": [
+		"anger",
+		"joy",
+		"surprise"
+	],
+	"ceroboh": [
+		"disgust"
+	],
+	"cinta": [
+		"joy"
+	],
+	"ciuman": [
+		"joy",
+		"surprise"
+	],
+	"cocok": [
+		"anger"
+	],
+	"cokelat": [
+		"joy"
+	],
+	"compang-camping": [
+		"disgust"
+	],
+	"crescendo": [
+		"joy",
+		"surprise"
+	],
+	"cucu": [
+		"joy"
+	],
+	"cukai": [
+		"anger",
+		"disgust"
+	],
+	"curang": [
+		"anger",
+		"disgust"
+	],
+	"curiga": [
+		"fear"
+	],
+	"daemon": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"daerah kumuh": [
+		"disgust"
+	],
+	"daging sapi muda": [
+		"sadness"
+	],
+	"daging": [
+		"disgust"
+	],
+	"dahak": [
+		"disgust"
+	],
+	"dakwaan": [
+		"fear"
+	],
+	"damai": [
+		"joy"
+	],
+	"darah": [
+		"anger",
+		"disgust"
+	],
+	"darurat": [
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"daya hidup": [
+		"joy"
+	],
+	"deflasi": [
+		"fear"
+	],
+	"degradasi": [
+		"sadness"
+	],
+	"dekrit": [
+		"fear"
+	],
+	"demam": [
+		"fear"
+	],
+	"demensia": [
+		"fear",
+		"sadness"
+	],
+	"demokrasi": [
+		"joy"
+	],
+	"demonstratif": [
+		"joy",
+		"sadness"
+	],
+	"dendam": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"dengan buruk": [
+		"sadness"
+	],
+	"dengan kejam": [
+		"anger",
+		"fear"
+	],
+	"dengan kekerasan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"dengan ketakutan": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"dengan marah": [
+		"anger"
+	],
+	"dengan mengagumkan": [
+		"surprise"
+	],
+	"dengan menyedihkan": [
+		"disgust",
+		"sadness"
+	],
+	"dengan pahit": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"dengan sedih": [
+		"sadness"
+	],
+	"dengan senang hati": [
+		"joy"
+	],
+	"dengan sia-sia": [
+		"disgust",
+		"sadness"
+	],
+	"dengung": [
+		"joy"
+	],
+	"deportasi": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"depresi": [
+		"sadness"
+	],
+	"depresiasi": [
+		"fear"
+	],
+	"depresif": [
+		"sadness"
+	],
+	"derita": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"dermawan": [
+		"joy"
+	],
+	"despotisme": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"destruktif": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"deviasi": [
+		"sadness"
+	],
+	"di luar hukum": [
+		"fear"
+	],
+	"diabaikan": [
+		"disgust"
+	],
+	"diagnosa": [
+		"fear"
+	],
+	"diam": [
+		"sadness"
+	],
+	"diam-diam": [
+		"surprise"
+	],
+	"diamankan": [
+		"sadness",
+		"anger"
+	],
+	"dianiaya": [
+		"fear",
+		"sadness"
+	],
+	"diare": [
+		"disgust"
+	],
+	"diasingkan": [
+		"sadness"
+	],
+	"dibakar": [
+		"disgust"
+	],
+	"dibatasi": [
+		"sadness"
+	],
+	"dibayar rendah": [
+		"anger",
+		"sadness"
+	],
+	"diberkati": [
+		"joy"
+	],
+	"dibinasakan": [
+		"sadness"
+	],
+	"dibius": [
+		"sadness"
+	],
+	"dibom": [
+		"disgust"
+	],
+	"dibuang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"dicuri": [
+		"anger"
+	],
+	"didiskualifikasi": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"digagalkan": [
+		"sadness"
+	],
+	"digelapkan": [
+		"fear",
+		"sadness"
+	],
+	"dihabiskan": [
+		"sadness"
+	],
+	"dihukum": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"dikalahkan": [
+		"sadness"
+	],
+	"dikenakan biaya": [
+		"fear",
+		"sadness"
+	],
+	"dikenakan": [
+		"sadness"
+	],
+	"diktator": [
+		"fear"
+	],
+	"diktatoris": [
+		"anger"
+	],
+	"dikucilkan": [
+		"sadness"
+	],
+	"dikutuk": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"dilarang": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"dilegalkan": [
+		"anger",
+		"fear",
+		"joy"
+	],
+	"dilenyapkan": [
+		"anger",
+		"fear"
+	],
+	"dilindungi": [
+		"fear"
+	],
+	"dilucuti": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"dimutilasi": [
+		"disgust"
+	],
+	"dinamis": [
+		"surprise"
+	],
+	"dinosaurus": [
+		"fear"
+	],
+	"dipakai": [
+		"sadness"
+	],
+	"dipaksa": [
+		"fear"
+	],
+	"dipalsukan": [
+		"anger"
+	],
+	"dipenjara": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"diperbudak": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"diperingatkan sebelumnya": [
+		"fear"
+	],
+	"diperingatkan": [
+		"fear",
+		"surprise"
+	],
+	"diperoleh": [
+		"joy"
+	],
+	"diperparah": [
+		"anger"
+	],
+	"dipertanyakan": [
+		"disgust"
+	],
+	"dipuji": [
+		"joy"
+	],
+	"direbut": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"direncanakan": [
+		"fear"
+	],
+	"dirusak": [
+		"anger"
+	],
+	"disabilitas": [
+		"sadness"
+	],
+	"disengaja": [
+		"anger",
+		"sadness"
+	],
+	"disentri": [
+		"disgust",
+		"sadness"
+	],
+	"disesalkan": [
+		"sadness"
+	],
+	"disiplin": [
+		"fear"
+	],
+	"diskriminasi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"diskriminatif": [
+		"disgust"
+	],
+	"diskualifikasi": [
+		"sadness"
+	],
+	"disonansi": [
+		"anger"
+	],
+	"disusutkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"ditangkap basah": [
+		"anger",
+		"fear"
+	],
+	"ditelantarkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"ditemukan": [
+		"joy"
+	],
+	"ditinggalkan": [
+		"anger",
+		"sadness"
+	],
+	"ditipu": [
+		"anger"
+	],
+	"dituduh": [
+		"anger",
+		"fear"
+	],
+	"dogmatis": [
+		"anger"
+	],
+	"domba": [
+		"joy"
+	],
+	"dominan": [
+		"fear"
+	],
+	"dominasi": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"dosa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"duda": [
+		"sadness"
+	],
+	"duel": [
+		"anger",
+		"fear"
+	],
+	"dugaan": [
+		"fear",
+		"sadness"
+	],
+	"duka": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"dukun": [
+		"disgust"
+	],
+	"dupa": [
+		"anger"
+	],
+	"dusta": [
+		"anger"
+	],
+	"efektif": [
+		"joy"
+	],
+	"efisien": [
+		"joy"
+	],
+	"efisiensi": [
+		"joy"
+	],
+	"egois": [
+		"anger",
+		"disgust"
+	],
+	"ejakulasi": [
+		"joy",
+		"surprise"
+	],
+	"ejekan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"eksekusi": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"eksplosif": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"ekstasi": [
+		"joy"
+	],
+	"elang": [
+		"fear"
+	],
+	"eliminasi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"elit": [
+		"joy"
+	],
+	"emansipasi": [
+		"joy"
+	],
+	"emboli": [
+		"fear",
+		"sadness"
+	],
+	"empedu": [
+		"anger",
+		"disgust"
+	],
+	"endemis": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"endokarditis": [
+		"fear",
+		"sadness"
+	],
+	"enek": [
+		"disgust"
+	],
+	"enema": [
+		"disgust"
+	],
+	"enggan": [
+		"fear"
+	],
+	"epidemi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"erotis": [
+		"joy",
+		"surprise"
+	],
+	"eutanasia": [
+		"fear",
+		"sadness"
+	],
+	"evakuasi": [
+		"fear"
+	],
+	"fajar": [
+		"joy",
+		"surprise"
+	],
+	"fanatik": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"fanatisme": [
+		"fear"
+	],
+	"fantastis": [
+		"disgust"
+	],
+	"fasik": [
+		"sadness"
+	],
+	"fatal": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"favorit": [
+		"joy"
+	],
+	"feodal": [
+		"anger",
+		"sadness"
+	],
+	"feodalisme": [
+		"anger",
+		"sadness"
+	],
+	"festival": [
+		"joy",
+		"surprise"
+	],
+	"flu": [
+		"fear"
+	],
+	"fluktuasi": [
+		"anger",
+		"fear"
+	],
+	"frustrasi": [
+		"anger"
+	],
+	"gaduh": [
+		"anger",
+		"disgust"
+	],
+	"gagah berani": [
+		"joy"
+	],
+	"gagah": [
+		"joy"
+	],
+	"gagal": [
+		"sadness"
+	],
+	"gagasan": [
+		"fear",
+		"surprise"
+	],
+	"gaib": [
+		"fear",
+		"surprise"
+	],
+	"gairah": [
+		"joy"
+	],
+	"gaji": [
+		"joy"
+	],
+	"ganas": [
+		"anger",
+		"fear"
+	],
+	"gangguan": [
+		"anger"
+	],
+	"garang": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"gegar otak": [
+		"anger",
+		"sadness"
+	],
+	"gelandangan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"gelap": [
+		"sadness"
+	],
+	"gelatin": [
+		"disgust"
+	],
+	"gelisah": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"gembira": [
+		"joy"
+	],
+	"gemeretak": [
+		"anger"
+	],
+	"gemetar": [
+		"fear"
+	],
+	"gemetaran": [
+		"fear"
+	],
+	"gempa bumi": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"gempa": [
+		"fear"
+	],
+	"gemuruh": [
+		"anger",
+		"fear"
+	],
+	"gencatan senjata": [
+		"joy"
+	],
+	"gendut": [
+		"disgust"
+	],
+	"genting": [
+		"fear",
+		"sadness"
+	],
+	"gereja": [
+		"joy"
+	],
+	"geriatrik": [
+		"sadness"
+	],
+	"gerilya": [
+		"fear"
+	],
+	"gerobak dorong": [
+		"disgust"
+	],
+	"gerombolan": [
+		"surprise"
+	],
+	"gersang": [
+		"sadness"
+	],
+	"gertakan": [
+		"anger"
+	],
+	"gesekan": [
+		"anger"
+	],
+	"getah": [
+		"sadness"
+	],
+	"getaran": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"ghetto": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"giat": [
+		"joy"
+	],
+	"gigih": [
+		"joy"
+	],
+	"gila": [
+		"anger",
+		"fear"
+	],
+	"godaan": [
+		"fear",
+		"disgust",
+		"sadness"
+	],
+	"gonggongan": [
+		"anger"
+	],
+	"gonorea": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"goresan": [
+		"fear",
+		"sadness"
+	],
+	"gosip": [
+		"sadness",
+		"disgust"
+	],
+	"goyah": [
+		"fear"
+	],
+	"granat": [
+		"fear"
+	],
+	"grogi": [
+		"fear"
+	],
+	"gubuk": [
+		"disgust",
+		"sadness"
+	],
+	"gugatan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"gugup": [
+		"fear"
+	],
+	"guillotine": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"gundah": [
+		"anger",
+		"sadness"
+	],
+	"gunung berapi": [
+		"fear",
+		"surprise"
+	],
+	"gurita": [
+		"disgust"
+	],
+	"gurun": [
+		"fear",
+		"sadness"
+	],
+	"guyuran": [
+		"surprise"
+	],
+	"hadiah": [
+		"joy",
+		"surprise"
+	],
+	"haid": [
+		"disgust"
+	],
+	"hak istimewa": [
+		"joy"
+	],
+	"hak tanggungan": [
+		"fear"
+	],
+	"halusinasi": [
+		"fear"
+	],
+	"hama": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"hambar": [
+		"disgust"
+	],
+	"hampa": [
+		"disgust"
+	],
+	"hampir mati": [
+		"sadness"
+	],
+	"hampir punah": [
+		"fear"
+	],
+	"hampir tidak": [
+		"sadness"
+	],
+	"hancur": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"hantu": [
+		"fear",
+		"sadness"
+	],
+	"hanyut": [
+		"fear",
+		"sadness"
+	],
+	"haram": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"harapan": [
+		"joy",
+		"surprise"
+	],
+	"hari libur": [
+		"joy"
+	],
+	"hari ulang tahun": [
+		"joy",
+		"surprise"
+	],
+	"harmoni": [
+		"joy"
+	],
+	"harta benda": [
+		"joy",
+		"surprise"
+	],
+	"harta karun": [
+		"joy"
+	],
+	"hasil karya": [
+		"joy"
+	],
+	"hasutan": [
+		"anger",
+		"sadness"
+	],
+	"haus darah": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"hawar": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"hebat": [
+		"sadness"
+	],
+	"hedonisme": [
+		"joy"
+	],
+	"helm": [
+		"fear"
+	],
+	"hembusan": [
+		"anger"
+	],
+	"heran": [
+		"surprise"
+	],
+	"heroik": [
+		"joy"
+	],
+	"herpes": [
+		"disgust"
+	],
+	"hiburan": [
+		"joy"
+	],
+	"hidrosefalus": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"hidung": [
+		"disgust"
+	],
+	"hijau abadi": [
+		"joy"
+	],
+	"hilang dari pandangan": [
+		"sadness",
+		"surprise"
+	],
+	"hilang": [
+		"fear",
+		"sadness"
+	],
+	"hina": [
+		"anger",
+		"disgust"
+	],
+	"hipertrofi": [
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"hipotesa": [
+		"surprise"
+	],
+	"hiruk pikuk": [
+		"anger",
+		"fear"
+	],
+	"histeri": [
+		"fear"
+	],
+	"histeris": [
+		"anger",
+		"fear"
+	],
+	"hitam": [
+		"sadness"
+	],
+	"hobi": [
+		"joy"
+	],
+	"hore": [
+		"joy"
+	],
+	"hujan": [
+		"sadness"
+	],
+	"hukum": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"hukuman gantung": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"hukuman penjara": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"hukuman": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"hutan": [
+		"fear"
+	],
+	"iblis": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"ibu": [
+		"joy",
+		"sadness"
+	],
+	"igauan": [
+		"disgust",
+		"sadness"
+	],
+	"ilmu gaib": [
+		"disgust",
+		"fear"
+	],
+	"ilmu hukum": [
+		"sadness"
+	],
+	"ilusi": [
+		"surprise"
+	],
+	"imamat": [
+		"joy",
+		"sadness"
+	],
+	"imigran": [
+		"fear"
+	],
+	"improvisasi": [
+		"surprise"
+	],
+	"inaugurasi": [
+		"joy"
+	],
+	"indah": [
+		"joy"
+	],
+	"indoktrinasi": [
+		"anger",
+		"fear"
+	],
+	"infark": [
+		"fear",
+		"surprise"
+	],
+	"infeksi": [
+		"fear"
+	],
+	"inflasi": [
+		"fear"
+	],
+	"informasi yang tidak benar": [
+		"anger",
+		"fear"
+	],
+	"informasi": [
+		"joy"
+	],
+	"ingin sekali": [
+		"joy",
+		"surprise"
+	],
+	"ingin": [
+		"sadness"
+	],
+	"injeksi": [
+		"fear"
+	],
+	"inspirasi": [
+		"joy"
+	],
+	"intelijen": [
+		"fear",
+		"joy"
+	],
+	"intens": [
+		"anger",
+		"disgust",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"interogasi": [
+		"fear"
+	],
+	"intervensi": [
+		"sadness"
+	],
+	"intim": [
+		"joy"
+	],
+	"intimidasi": [
+		"anger",
+		"fear"
+	],
+	"intoleran": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"intoleransi": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"intrik": [
+		"fear",
+		"surprise"
+	],
+	"intrusi": [
+		"fear"
+	],
+	"invasi": [
+		"anger"
+	],
+	"irasional": [
+		"disgust",
+		"fear"
+	],
+	"iri": [
+		"anger"
+	],
+	"iris": [
+		"fear"
+	],
+	"iritasi": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"isi perut": [
+		"disgust"
+	],
+	"isi": [
+		"joy"
+	],
+	"isolasi": [
+		"sadness"
+	],
+	"isu": [
+		"sadness"
+	],
+	"jackpot": [
+		"joy",
+		"surprise"
+	],
+	"jahat": [
+		"fear"
+	],
+	"jalan buntu": [
+		"anger",
+		"disgust"
+	],
+	"jam tangan": [
+		"fear"
+	],
+	"jamuan makan": [
+		"joy"
+	],
+	"jamuan": [
+		"joy",
+		"surprise"
+	],
+	"jamur": [
+		"disgust"
+	],
+	"janda": [
+		"sadness"
+	],
+	"janji": [
+		"joy"
+	],
+	"jarum suntik": [
+		"fear"
+	],
+	"jatuh terjerambab": [
+		"fear"
+	],
+	"jaya": [
+		"joy"
+	],
+	"jelaga": [
+		"disgust"
+	],
+	"jelas": [
+		"joy"
+	],
+	"jelatang": [
+		"anger",
+		"disgust"
+	],
+	"jelek": [
+		"disgust"
+	],
+	"jenuh": [
+		"disgust"
+	],
+	"jerat": [
+		"fear"
+	],
+	"jerawat": [
+		"disgust"
+	],
+	"jeruji": [
+		"anger",
+		"disgust"
+	],
+	"jijik": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"jin": [
+		"disgust",
+		"fear"
+	],
+	"jinak": [
+		"joy"
+	],
+	"juara": [
+		"joy"
+	],
+	"jujur": [
+		"joy"
+	],
+	"jurang": [
+		"fear"
+	],
+	"juru sita": [
+		"fear"
+	],
+	"kabel": [
+		"surprise"
+	],
+	"kabur": [
+		"fear",
+		"sadness"
+	],
+	"kabut": [
+		"fear"
+	],
+	"kacau": [
+		"anger"
+	],
+	"kafir": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kain kafan": [
+		"sadness"
+	],
+	"kakus": [
+		"disgust"
+	],
+	"kalajengking": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"kalimat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kamar bayi": [
+		"joy"
+	],
+	"kamar mayat": [
+		"fear",
+		"sadness"
+	],
+	"kambing hitam": [
+		"anger",
+		"fear"
+	],
+	"kambuh": [
+		"fear",
+		"sadness"
+	],
+	"kampanye": [
+		"anger",
+		"fear"
+	],
+	"kandang": [
+		"sadness"
+	],
+	"kanibal": [
+		"disgust",
+		"fear"
+	],
+	"kanibalisme": [
+		"disgust"
+	],
+	"kanker": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kapal militer": [
+		"fear"
+	],
+	"karantina": [
+		"fear"
+	],
+	"kardiomiopati": [
+		"fear",
+		"sadness"
+	],
+	"karies": [
+		"disgust"
+	],
+	"karnivora": [
+		"fear"
+	],
+	"karsinoma": [
+		"fear",
+		"sadness"
+	],
+	"karunia": [
+		"joy"
+	],
+	"kasar": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kasih sayang": [
+		"joy"
+	],
+	"kasihan": [
+		"sadness"
+	],
+	"kasus": [
+		"fear",
+		"sadness"
+	],
+	"kata lontaran": [
+		"anger"
+	],
+	"kata-kata kotor": [
+		"anger"
+	],
+	"kata-kata": [
+		"anger"
+	],
+	"katarak": [
+		"fear",
+		"sadness"
+	],
+	"katedral": [
+		"joy"
+	],
+	"kawanan": [
+		"disgust"
+	],
+	"kayu jati": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"ke belakang": [
+		"disgust"
+	],
+	"keabsahan": [
+		"fear"
+	],
+	"keadaan bangkrut": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"keadaan buruk": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"keadaan darurat": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"keadaan mendung": [
+		"fear"
+	],
+	"keadaan sulit": [
+		"fear"
+	],
+	"keadilan": [
+		"joy"
+	],
+	"keagungan": [
+		"joy"
+	],
+	"keahlian": [
+		"joy",
+		"surprise"
+	],
+	"keakraban": [
+		"joy"
+	],
+	"keanggunan": [
+		"joy"
+	],
+	"keangkuhan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"keaslian": [
+		"surprise"
+	],
+	"kebahagiaan mutlak": [
+		"joy"
+	],
+	"kebahagiaan": [
+		"joy"
+	],
+	"kebaikan": [
+		"joy"
+	],
+	"kebakaran besar": [
+		"anger",
+		"fear"
+	],
+	"kebakaran": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"kebanggaan": [
+		"joy"
+	],
+	"kebangkitan": [
+		"joy"
+	],
+	"kebangkrutan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kebebasan": [
+		"joy",
+		"surprise"
+	],
+	"kebejatan": [
+		"anger",
+		"disgust"
+	],
+	"kebenaran": [
+		"joy",
+		"surprise"
+	],
+	"kebencian": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"keberangkatan": [
+		"sadness"
+	],
+	"keberatan": [
+		"anger"
+	],
+	"kebersihan": [
+		"joy"
+	],
+	"keberuntungan": [
+		"joy",
+		"surprise"
+	],
+	"kebesaran": [
+		"joy",
+		"surprise"
+	],
+	"kebetulan": [
+		"surprise"
+	],
+	"kebiadaban": [
+		"anger",
+		"fear"
+	],
+	"kebinasaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kebingungan": [
+		"anger",
+		"fear"
+	],
+	"kebohongan": [
+		"anger",
+		"disgust",
+		"sadness",
+		"surprise"
+	],
+	"kebosanan": [
+		"disgust"
+	],
+	"kebrutalan": [
+		"anger",
+		"fear"
+	],
+	"kebun": [
+		"joy"
+	],
+	"kebuntuan": [
+		"anger",
+		"fear"
+	],
+	"kebutaan": [
+		"sadness"
+	],
+	"kebutuhan": [
+		"sadness"
+	],
+	"kecabulan": [
+		"anger",
+		"disgust"
+	],
+	"kecakapan": [
+		"joy",
+		"surprise"
+	],
+	"kecaman": [
+		"fear"
+	],
+	"kecanduan": [
+		"disgust"
+	],
+	"kecantikan": [
+		"joy"
+	],
+	"kecapi": [
+		"joy"
+	],
+	"kecelakaan kapal": [
+		"fear",
+		"sadness"
+	],
+	"kecelakaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"kecemasan": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"kecemburuan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kecenderungan bunuh diri": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kecepatan": [
+		"surprise"
+	],
+	"kecerobohan": [
+		"anger",
+		"disgust"
+	],
+	"kecewa": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kecurigaan": [
+		"fear"
+	],
+	"kecut": [
+		"disgust"
+	],
+	"kedaluwarsa": [
+		"disgust"
+	],
+	"kedap": [
+		"anger",
+		"fear"
+	],
+	"kedekatan": [
+		"joy"
+	],
+	"kediktatoran": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kedinginan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kedok": [
+		"surprise"
+	],
+	"kedokteran gigi": [
+		"fear"
+	],
+	"kegagahan": [
+		"joy"
+	],
+	"kegagalan": [
+		"sadness"
+	],
+	"kegairahan": [
+		"joy"
+	],
+	"keganasan": [
+		"fear",
+		"sadness"
+	],
+	"kegelapan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kegelisahan": [
+		"fear",
+		"surprise"
+	],
+	"kegembiraan": [
+		"joy",
+		"surprise"
+	],
+	"kegemukan": [
+		"disgust",
+		"sadness"
+	],
+	"kegentingan": [
+		"anger"
+	],
+	"kegugupan": [
+		"fear"
+	],
+	"keguguran": [
+		"fear",
+		"sadness"
+	],
+	"kehamilan": [
+		"disgust"
+	],
+	"kehancuran": [
+		"anger",
+		"sadness"
+	],
+	"kehebohan": [
+		"anger"
+	],
+	"keheningan": [
+		"fear",
+		"sadness"
+	],
+	"keheranan": [
+		"joy",
+		"surprise"
+	],
+	"kehilangan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"keibuan": [
+		"joy"
+	],
+	"keindahan": [
+		"joy"
+	],
+	"keinginan": [
+		"joy",
+		"surprise"
+	],
+	"kejadian": [
+		"surprise"
+	],
+	"kejahatan": [
+		"disgust"
+	],
+	"kejam": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kejang": [
+		"fear"
+	],
+	"kejatuhan": [
+		"fear",
+		"sadness"
+	],
+	"kejayaan": [
+		"joy"
+	],
+	"kejelekan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kejengkelan": [
+		"anger",
+		"disgust"
+	],
+	"kejujuran": [
+		"joy"
+	],
+	"kejut": [
+		"fear",
+		"surprise"
+	],
+	"kejutan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"kekacauan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kekaguman": [
+		"joy"
+	],
+	"kekalahan": [
+		"anger",
+		"sadness"
+	],
+	"kekanak-kanakan": [
+		"anger",
+		"disgust"
+	],
+	"kekasaran": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kekayaan": [
+		"joy"
+	],
+	"kekecewaan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kekejaman": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kekejian": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kekenyangan": [
+		"disgust"
+	],
+	"kekerasan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kekeringan": [
+		"sadness"
+	],
+	"kekesalan": [
+		"anger"
+	],
+	"kekosongan": [
+		"sadness"
+	],
+	"kekuasaan": [
+		"joy",
+		"anger"
+	],
+	"kekuatan": [
+		"joy",
+		"anger"
+	],
+	"kekuatiran": [
+		"anger",
+		"fear"
+	],
+	"kekudusan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"kekurangajaran": [
+		"anger",
+		"disgust"
+	],
+	"kekurangan nafas": [
+		"anger",
+		"fear"
+	],
+	"kekurangan perhatian": [
+		"anger"
+	],
+	"kelahi": [
+		"anger"
+	],
+	"kelahiran": [
+		"fear",
+		"joy"
+	],
+	"kelainan bentuk": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kelakuan buruk": [
+		"anger",
+		"disgust",
+		"surprise"
+	],
+	"kelalaian": [
+		"sadness"
+	],
+	"kelambanan": [
+		"sadness"
+	],
+	"kelambatan": [
+		"sadness"
+	],
+	"kelancaran": [
+		"joy"
+	],
+	"kelangkaan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kelaparan": [
+		"sadness"
+	],
+	"kelebihan muatan": [
+		"sadness"
+	],
+	"kelebihan": [
+		"joy",
+		"surprise"
+	],
+	"keledai": [
+		"disgust"
+	],
+	"kelelahan": [
+		"sadness"
+	],
+	"kelemahan": [
+		"sadness",
+		"fear"
+	],
+	"kelembutan": [
+		"joy"
+	],
+	"kelesuan": [
+		"sadness"
+	],
+	"kelihaian": [
+		"joy"
+	],
+	"kelincahan": [
+		"joy"
+	],
+	"kelip": [
+		"joy"
+	],
+	"keliru": [
+		"fear"
+	],
+	"kelonggaran": [
+		"sadness"
+	],
+	"keluar": [
+		"disgust"
+	],
+	"keluhan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kelulusan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"kelumpuhan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kemahakuasaan": [
+		"fear"
+	],
+	"kemajuan": [
+		"joy",
+		"sadness"
+	],
+	"kemakmuran": [
+		"joy"
+	],
+	"kemalangan": [
+		"fear",
+		"sadness"
+	],
+	"kemalasan": [
+		"disgust"
+	],
+	"kemandulan": [
+		"sadness"
+	],
+	"kemanjuran": [
+		"joy"
+	],
+	"kemanusiaan": [
+		"joy"
+	],
+	"kemarahan": [
+		"anger",
+		"fear"
+	],
+	"kematian": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kembung": [
+		"disgust"
+	],
+	"kemegahan": [
+		"joy",
+		"surprise"
+	],
+	"kemenangan": [
+		"joy"
+	],
+	"kementerian": [
+		"joy"
+	],
+	"kemerdekaan": [
+		"joy",
+		"surprise"
+	],
+	"kemerosotan": [
+		"sadness"
+	],
+	"kemewahan": [
+		"joy"
+	],
+	"kemiskinan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kemuliaan": [
+		"joy"
+	],
+	"kemunafikan": [
+		"anger"
+	],
+	"kemunduran": [
+		"sadness"
+	],
+	"kemurahan hati": [
+		"joy",
+		"surprise"
+	],
+	"kemurnian": [
+		"surprise"
+	],
+	"kenaikan": [
+		"joy"
+	],
+	"kenakalan": [
+		"anger"
+	],
+	"kenangan": [
+		"sadness"
+	],
+	"kencing nanah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kenekatan": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"kengerian": [
+		"fear",
+		"sadness"
+	],
+	"kental": [
+		"disgust"
+	],
+	"kepahitan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kepahlawanan": [
+		"joy",
+		"surprise"
+	],
+	"kepalsuan": [
+		"disgust"
+	],
+	"kepengecutan": [
+		"fear"
+	],
+	"keperawanan": [
+		"disgust"
+	],
+	"kepercayaan diri": [
+		"fear",
+		"joy"
+	],
+	"kepercayaan": [
+		"joy"
+	],
+	"kepintaran": [
+		"joy"
+	],
+	"kepolosan": [
+		"surprise"
+	],
+	"kepopuleran": [
+		"joy"
+	],
+	"kepuasan": [
+		"surprise"
+	],
+	"kepulangan sakit": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"keputusan": [
+		"surprise"
+	],
+	"keputusasaan": [
+		"sadness"
+	],
+	"keputusasan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kerabat": [
+		"joy"
+	],
+	"keracunan": [
+		"anger",
+		"fear"
+	],
+	"keraguan": [
+		"sadness"
+	],
+	"kerahasiaan": [
+		"surprise"
+	],
+	"kerakusan": [
+		"disgust"
+	],
+	"keramahan": [
+		"joy"
+	],
+	"kerangka": [
+		"fear"
+	],
+	"keras": [
+		"anger",
+		"fear"
+	],
+	"kerasukan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kerentanan": [
+		"fear",
+		"sadness"
+	],
+	"keretakan": [
+		"fear"
+	],
+	"keriangan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"keributan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"kerinduan": [
+		"joy"
+	],
+	"kering": [
+		"sadness"
+	],
+	"keringat": [
+		"fear"
+	],
+	"keriuhan di pawai": [
+		"joy",
+		"surprise"
+	],
+	"keriuhan": [
+		"sadness"
+	],
+	"kerja keras": [
+		"joy"
+	],
+	"kerja sama": [
+		"joy"
+	],
+	"kerugian": [
+		"sadness"
+	],
+	"kerukunan": [
+		"joy"
+	],
+	"kerumitan": [
+		"anger"
+	],
+	"kerusakan gigi": [
+		"disgust"
+	],
+	"kerusakan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kerusuhan": [
+		"fear",
+		"sadness"
+	],
+	"kesabaran": [
+		"joy"
+	],
+	"kesadaran": [
+		"joy"
+	],
+	"kesal": [
+		"anger"
+	],
+	"kesalahan besar": [
+		"disgust",
+		"sadness"
+	],
+	"kesalahan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"kesalahpahaman": [
+		"anger",
+		"sadness"
+	],
+	"kesan": [
+		"joy"
+	],
+	"kesederhanaan": [
+		"joy"
+	],
+	"kesedihan": [
+		"sadness"
+	],
+	"kesegeraan": [
+		"surprise"
+	],
+	"kesehatan": [
+		"joy"
+	],
+	"keseimbangan": [
+		"joy"
+	],
+	"kesejukan": [
+		"joy"
+	],
+	"keseleo": [
+		"sadness"
+	],
+	"kesempatan": [
+		"surprise"
+	],
+	"kesempurnaan": [
+		"joy",
+		"surprise"
+	],
+	"kesemutan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kesendirian": [
+		"fear",
+		"sadness"
+	],
+	"kesengsaraan": [
+		"fear",
+		"sadness"
+	],
+	"kesepian": [
+		"sadness"
+	],
+	"keserakahan": [
+		"anger",
+		"disgust"
+	],
+	"keseriusan": [
+		"fear",
+		"sadness"
+	],
+	"kesetiaan": [
+		"joy"
+	],
+	"kesiapan": [
+		"joy"
+	],
+	"kesombongan": [
+		"anger",
+		"disgust"
+	],
+	"kesopanan": [
+		"joy"
+	],
+	"kesucian": [
+		"joy"
+	],
+	"kesukaan": [
+		"joy"
+	],
+	"kesuksesan": [
+		"joy"
+	],
+	"kesulitan": [
+		"sadness"
+	],
+	"kesuraman": [
+		"sadness"
+	],
+	"kesurupan": [
+		"fear",
+		"disgust"
+	],
+	"kesyahidan": [
+		"fear",
+		"sadness"
+	],
+	"ketaatan": [
+		"joy"
+	],
+	"ketabahan": [
+		"joy"
+	],
+	"ketakterbatasan": [
+		"joy"
+	],
+	"ketakutan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"ketamakan": [
+		"anger",
+		"disgust"
+	],
+	"ketangkasan": [
+		"joy"
+	],
+	"ketegangan": [
+		"anger"
+	],
+	"ketegasan": [
+		"joy"
+	],
+	"keteguhan": [
+		"joy"
+	],
+	"ketekunan": [
+		"joy"
+	],
+	"ketenangan": [
+		"joy"
+	],
+	"keterlaluan": [
+		"fear"
+	],
+	"keterlambatan": [
+		"anger",
+		"sadness"
+	],
+	"keterlibatan": [
+		"anger"
+	],
+	"ketiadaan": [
+		"sadness"
+	],
+	"ketidakadilan": [
+		"anger",
+		"sadness"
+	],
+	"ketidakamanan": [
+		"fear"
+	],
+	"ketidakbahagiaan": [
+		"sadness"
+	],
+	"ketidakberdayaan": [
+		"fear",
+		"sadness"
+	],
+	"ketidakcukupan": [
+		"anger"
+	],
+	"ketidakdewasaan": [
+		"anger"
+	],
+	"ketidakefisienan": [
+		"disgust",
+		"sadness"
+	],
+	"ketidakmurnian": [
+		"disgust"
+	],
+	"ketidakpantasan": [
+		"anger"
+	],
+	"ketidakpatuhan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"ketidakpedulian": [
+		"anger"
+	],
+	"ketidakpercayaan": [
+		"anger"
+	],
+	"ketidakpuasan": [
+		"anger"
+	],
+	"ketidaksabaran": [
+		"anger"
+	],
+	"ketidaksahan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"ketidaksamaan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"ketidaksempurnaan": [
+		"sadness"
+	],
+	"ketidaksenangan": [
+		"disgust"
+	],
+	"ketidaksenonohan": [
+		"anger",
+		"disgust"
+	],
+	"ketidaksetiaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"ketidaksetujuan": [
+		"sadness"
+	],
+	"ketidakstabilan": [
+		"disgust",
+		"fear"
+	],
+	"ketidaksuburan": [
+		"sadness"
+	],
+	"ketidakteraturan": [
+		"sadness"
+	],
+	"ketigabelas": [
+		"fear"
+	],
+	"ketinggalan": [
+		"sadness"
+	],
+	"ketinggian": [
+		"fear",
+		"joy"
+	],
+	"ketombe": [
+		"disgust"
+	],
+	"keunggulan": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"keuntungan": [
+		"joy"
+	],
+	"kewalahan": [
+		"sadness"
+	],
+	"kewaspadaan": [
+		"surprise"
+	],
+	"keyakinan": [
+		"joy"
+	],
+	"kezaliman": [
+		"fear",
+		"sadness"
+	],
+	"khan": [
+		"fear"
+	],
+	"khawatir": [
+		"fear",
+		"sadness"
+	],
+	"khayalan": [
+		"joy"
+	],
+	"kiamat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kicauan": [
+		"joy"
+	],
+	"kilau": [
+		"joy"
+	],
+	"kista": [
+		"fear",
+		"sadness"
+	],
+	"kistik": [
+		"disgust"
+	],
+	"klasik": [
+		"joy"
+	],
+	"klimaks": [
+		"joy",
+		"surprise"
+	],
+	"kobaran api": [
+		"anger"
+	],
+	"kobra": [
+		"fear"
+	],
+	"kodok": [
+		"disgust"
+	],
+	"kokain": [
+		"sadness"
+	],
+	"kokoh": [
+		"joy"
+	],
+	"kolaborator": [
+		"joy"
+	],
+	"kolera": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"koma": [
+		"fear",
+		"sadness"
+	],
+	"kompak": [
+		"joy"
+	],
+	"kompeten": [
+		"joy"
+	],
+	"kompetensi": [
+		"joy"
+	],
+	"kompleksitas": [
+		"joy"
+	],
+	"komplotan": [
+		"anger",
+		"fear"
+	],
+	"kompos": [
+		"disgust"
+	],
+	"kompres": [
+		"anger"
+	],
+	"komunikasi": [
+		"joy"
+	],
+	"komunikatif": [
+		"joy"
+	],
+	"komunis": [
+		"anger"
+	],
+	"komunisme": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"konflik": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kongres": [
+		"disgust"
+	],
+	"konspirasi": [
+		"fear"
+	],
+	"konspirator": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kontroversial": [
+		"anger"
+	],
+	"konyol": [
+		"joy"
+	],
+	"korban": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"korosif": [
+		"fear"
+	],
+	"korup": [
+		"anger",
+		"disgust"
+	],
+	"korupsi": [
+		"disgust"
+	],
+	"kosong": [
+		"sadness"
+	],
+	"kotak tinta": [
+		"fear"
+	],
+	"kotor": [
+		"disgust"
+	],
+	"kotoran": [
+		"anger",
+		"disgust"
+	],
+	"kreatif": [
+		"joy"
+	],
+	"kremasi": [
+		"sadness"
+	],
+	"krim": [
+		"joy",
+		"surprise"
+	],
+	"kriminalitas": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"krisis": [
+		"sadness",
+		"fear"
+	],
+	"kristal": [
+		"joy"
+	],
+	"kritik": [
+		"sadness"
+	],
+	"kritikus": [
+		"sadness"
+	],
+	"kronis": [
+		"sadness"
+	],
+	"ksatria": [
+		"joy"
+	],
+	"kualifikasi": [
+		"joy"
+	],
+	"kuat": [
+		"joy"
+	],
+	"kuburan": [
+		"fear",
+		"sadness"
+	],
+	"kudeta": [
+		"anger",
+		"surprise"
+	],
+	"kudis": [
+		"disgust",
+		"fear"
+	],
+	"kue-kue": [
+		"joy"
+	],
+	"kulit kayu": [
+		"anger"
+	],
+	"kultus": [
+		"fear"
+	],
+	"kuman": [
+		"disgust"
+	],
+	"kuning kecoklatan": [
+		"disgust"
+	],
+	"kunjungan": [
+		"sadness"
+	],
+	"kuno": [
+		"sadness"
+	],
+	"kurang menarik": [
+		"disgust",
+		"sadness"
+	],
+	"kurang pengetahuan": [
+		"disgust"
+	],
+	"kurang": [
+		"sadness"
+	],
+	"kurcaci": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"kurungan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"kurus": [
+		"fear",
+		"sadness"
+	],
+	"kusta": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"kusut": [
+		"sadness"
+	],
+	"kutil": [
+		"disgust"
+	],
+	"kutu daun": [
+		"disgust"
+	],
+	"kutu": [
+		"disgust"
+	],
+	"kutuk": [
+		"anger",
+		"disgust"
+	],
+	"kutukan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"laba-laba": [
+		"disgust",
+		"fear"
+	],
+	"lagu": [
+		"joy"
+	],
+	"lahar": [
+		"anger",
+		"fear"
+	],
+	"laknat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"lalai": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"lamban": [
+		"sadness"
+	],
+	"lambat": [
+		"disgust"
+	],
+	"lamunan": [
+		"joy"
+	],
+	"lamur": [
+		"anger",
+		"sadness"
+	],
+	"lancang": [
+		"anger",
+		"disgust"
+	],
+	"langit": [
+		"joy"
+	],
+	"langka": [
+		"fear",
+		"sadness"
+	],
+	"langsing": [
+		"joy"
+	],
+	"lapar": [
+		"sadness"
+	],
+	"lapis baja": [
+		"fear"
+	],
+	"larangan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"lawan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"layang-layang": [
+		"disgust"
+	],
+	"layu": [
+		"disgust"
+	],
+	"lebah": [
+		"anger",
+		"fear"
+	],
+	"lebih besar": [
+		"disgust",
+		"surprise"
+	],
+	"lebih buruk": [
+		"fear",
+		"sadness"
+	],
+	"lebih rendah": [
+		"sadness"
+	],
+	"lebih tua": [
+		"sadness"
+	],
+	"ledakan": [
+		"anger",
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"lega": [
+		"joy"
+	],
+	"lelah": [
+		"sadness"
+	],
+	"lelucon": [
+		"surprise"
+	],
+	"leluhur": [
+		"sadness"
+	],
+	"lemah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"lemak": [
+		"disgust"
+	],
+	"lemas": [
+		"sadness",
+		"fear"
+	],
+	"lembab": [
+		"disgust"
+	],
+	"lembam": [
+		"disgust"
+	],
+	"lembek": [
+		"sadness"
+	],
+	"lembut": [
+		"joy"
+	],
+	"lemon": [
+		"disgust"
+	],
+	"lendir": [
+		"disgust"
+	],
+	"lengah": [
+		"surprise"
+	],
+	"lengan bawah": [
+		"anger"
+	],
+	"lengkap": [
+		"joy"
+	],
+	"lengket": [
+		"disgust"
+	],
+	"lepuh": [
+		"disgust"
+	],
+	"lesbian": [
+		"disgust",
+		"sadness"
+	],
+	"lesu": [
+		"sadness"
+	],
+	"letih": [
+		"sadness"
+	],
+	"letupan": [
+		"surprise"
+	],
+	"letusan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"leukemia": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"lezat": [
+		"joy"
+	],
+	"liar": [
+		"surprise"
+	],
+	"liburan": [
+		"joy"
+	],
+	"licik": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"limbah": [
+		"disgust"
+	],
+	"lincah": [
+		"joy"
+	],
+	"lintah": [
+		"disgust",
+		"fear"
+	],
+	"liris": [
+		"joy"
+	],
+	"liur": [
+		"disgust"
+	],
+	"lolos": [
+		"fear"
+	],
+	"longgar": [
+		"sadness"
+	],
+	"loon": [
+		"disgust"
+	],
+	"loyalitas": [
+		"joy"
+	],
+	"luar biasa": [
+		"joy",
+		"surprise"
+	],
+	"luas": [
+		"joy"
+	],
+	"lubang angin": [
+		"anger"
+	],
+	"lucu sekali": [
+		"joy",
+		"surprise"
+	],
+	"lucu": [
+		"surprise"
+	],
+	"luka": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"lumba-lumba": [
+		"joy",
+		"surprise"
+	],
+	"lumpuh": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"lumpur": [
+		"disgust"
+	],
+	"lupa": [
+		"sadness",
+		"fear"
+	],
+	"lusuh": [
+		"disgust"
+	],
+	"luwak": [
+		"anger"
+	],
+	"maaf": [
+		"sadness",
+		"fear"
+	],
+	"maag": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mabuk": [
+		"disgust"
+	],
+	"macet": [
+		"disgust"
+	],
+	"mafia": [
+		"fear"
+	],
+	"mahakuasa": [
+		"sadness"
+	],
+	"mahir": [
+		"joy"
+	],
+	"maju": [
+		"joy"
+	],
+	"makam": [
+		"sadness"
+	],
+	"makanan": [
+		"joy"
+	],
+	"makhluk": [
+		"disgust"
+	],
+	"makmur": [
+		"joy"
+	],
+	"maksimum": [
+		"surprise"
+	],
+	"malaikat": [
+		"joy",
+		"surprise"
+	],
+	"malang": [
+		"disgust",
+		"sadness"
+	],
+	"malapetaka": [
+		"anger",
+		"fear"
+	],
+	"malaria": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"malas": [
+		"anger",
+		"sadness",
+		"fear"
+	],
+	"maling": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"malpraktik": [
+		"anger"
+	],
+	"malu": [
+		"sadness",
+		"disgust",
+		"fear"
+	],
+	"mandamus": [
+		"fear"
+	],
+	"mangkir": [
+		"sadness"
+	],
+	"mangsa": [
+		"fear"
+	],
+	"manifestasi": [
+		"fear"
+	],
+	"manipulasi": [
+		"anger",
+		"fear"
+	],
+	"manis": [
+		"joy",
+		"surprise"
+	],
+	"manusia super": [
+		"joy"
+	],
+	"manusiawi": [
+		"joy"
+	],
+	"mapan": [
+		"joy"
+	],
+	"marah": [
+		"anger"
+	],
+	"martir": [
+		"fear",
+		"sadness"
+	],
+	"masa bodoh": [
+		"sadness"
+	],
+	"masa kanak-kanak": [
+		"joy"
+	],
+	"masa pensiun": [
+		"fear",
+		"joy",
+		"sadness"
+	],
+	"masa percobaan": [
+		"fear",
+		"sadness"
+	],
+	"masalah": [
+		"fear",
+		"sadness"
+	],
+	"masjid": [
+		"anger"
+	],
+	"massa": [
+		"anger",
+		"fear"
+	],
+	"mata duitan": [
+		"fear"
+	],
+	"matahari": [
+		"joy",
+		"surprise"
+	],
+	"matang": [
+		"joy"
+	],
+	"materialis": [
+		"disgust"
+	],
+	"mati lemas": [
+		"anger",
+		"fear"
+	],
+	"mati rasa": [
+		"sadness"
+	],
+	"mati ringan": [
+		"fear",
+		"sadness"
+	],
+	"mati": [
+		"fear",
+		"sadness"
+	],
+	"mayat": [
+		"disgust",
+		"sadness"
+	],
+	"mayoritas": [
+		"joy"
+	],
+	"medali": [
+		"joy",
+		"surprise"
+	],
+	"medan perang": [
+		"fear"
+	],
+	"mediasi": [
+		"fear"
+	],
+	"medis": [
+		"fear"
+	],
+	"megah": [
+		"joy"
+	],
+	"mekar": [
+		"joy"
+	],
+	"melacak": [
+		"surprise"
+	],
+	"melahap": [
+		"disgust"
+	],
+	"melaksanakan": [
+		"anger",
+		"fear"
+	],
+	"melampaui": [
+		"joy"
+	],
+	"melampiaskan": [
+		"anger"
+	],
+	"melanggar hukum": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"melanggar": [
+		"anger",
+		"fear"
+	],
+	"melankolis": [
+		"sadness"
+	],
+	"melarang": [
+		"sadness"
+	],
+	"melarikan diri": [
+		"sadness"
+	],
+	"melawan": [
+		"anger"
+	],
+	"melayani": [
+		"joy"
+	],
+	"melayu": [
+		"sadness"
+	],
+	"melebih-lebihkan": [
+		"fear"
+	],
+	"melebihi": [
+		"fear"
+	],
+	"melecehkan": [
+		"anger"
+	],
+	"meledak": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"meledakkan": [
+		"fear",
+		"surprise"
+	],
+	"melelehkan": [
+		"sadness"
+	],
+	"melemah": [
+		"fear",
+		"sadness"
+	],
+	"melengkapi": [
+		"joy",
+		"surprise"
+	],
+	"melengking": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"melentur": [
+		"fear"
+	],
+	"melenyapkan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"melepaskan": [
+		"joy"
+	],
+	"melepuh": [
+		"disgust"
+	],
+	"meleset": [
+		"sadness",
+		"fear"
+	],
+	"melestarikan": [
+		"joy"
+	],
+	"meletus": [
+		"surprise"
+	],
+	"melibatkan": [
+		"anger"
+	],
+	"melimpah": [
+		"joy"
+	],
+	"melimpahi": [
+		"anger"
+	],
+	"melindungi": [
+		"joy"
+	],
+	"meliur": [
+		"disgust"
+	],
+	"melolong": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"melompat": [
+		"joy"
+	],
+	"melongo": [
+		"surprise"
+	],
+	"meludah": [
+		"disgust"
+	],
+	"melukai hati": [
+		"anger",
+		"disgust"
+	],
+	"melukai": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"melumpuhkan": [
+		"anger",
+		"sadness"
+	],
+	"meluncur": [
+		"joy"
+	],
+	"memacu": [
+		"fear"
+	],
+	"memadamkan": [
+		"anger",
+		"disgust"
+	],
+	"memajukan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"memaki": [
+		"anger"
+	],
+	"memaksa": [
+		"disgust",
+		"fear"
+	],
+	"memalsukan": [
+		"disgust"
+	],
+	"memalukan": [
+		"sadness"
+	],
+	"memancing emosi": [
+		"anger",
+		"disgust"
+	],
+	"memanen": [
+		"joy"
+	],
+	"memanggang": [
+		"anger"
+	],
+	"memanipulasi": [
+		"fear"
+	],
+	"memanjakan": [
+		"disgust"
+	],
+	"memar": [
+		"sadness"
+	],
+	"memarahi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"memasukkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mematikan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mematuhi": [
+		"fear"
+	],
+	"membagikan": [
+		"sadness"
+	],
+	"membahayakan": [
+		"anger",
+		"fear"
+	],
+	"membajak": [
+		"anger"
+	],
+	"membalas": [
+		"anger"
+	],
+	"membanting": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"membara": [
+		"anger"
+	],
+	"membasmi": [
+		"anger"
+	],
+	"membatalkan": [
+		"sadness"
+	],
+	"membatasi": [
+		"sadness"
+	],
+	"membayangkan": [
+		"joy"
+	],
+	"membayar kembali": [
+		"anger",
+		"joy"
+	],
+	"membayar": [
+		"joy"
+	],
+	"membebaskan": [
+		"anger",
+		"joy",
+		"surprise"
+	],
+	"membedakan": [
+		"anger",
+		"sadness"
+	],
+	"membelok": [
+		"fear",
+		"surprise"
+	],
+	"membenamkan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"membenci": [
+		"anger"
+	],
+	"membentak": [
+		"anger",
+		"disgust",
+		"joy",
+		"surprise"
+	],
+	"memberatkan": [
+		"anger",
+		"sadness"
+	],
+	"memberi hormat": [
+		"joy"
+	],
+	"memberontak": [
+		"anger",
+		"surprise"
+	],
+	"membersihkan nama baik": [
+		"anger"
+	],
+	"membersihkan": [
+		"fear"
+	],
+	"membesut": [
+		"disgust",
+		"joy"
+	],
+	"membina": [
+		"anger",
+		"disgust",
+		"fear",
+		"joy"
+	],
+	"membinasakan": [
+		"anger",
+		"fear"
+	],
+	"memblokade": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"memboikot": [
+		"anger"
+	],
+	"membombardir": [
+		"anger",
+		"fear"
+	],
+	"membongkar": [
+		"anger"
+	],
+	"membosankan": [
+		"disgust"
+	],
+	"membual": [
+		"disgust"
+	],
+	"membuang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"membuka": [
+		"joy"
+	],
+	"membunuh": [
+		"anger"
+	],
+	"memburu": [
+		"anger",
+		"fear"
+	],
+	"memburuk": [
+		"disgust",
+		"sadness"
+	],
+	"membusuk": [
+		"disgust"
+	],
+	"membuta": [
+		"sadness"
+	],
+	"memecahkan": [
+		"surprise"
+	],
+	"memedang": [
+		"anger",
+		"fear"
+	],
+	"memekik": [
+		"fear",
+		"surprise"
+	],
+	"memeluk": [
+		"joy"
+	],
+	"memenjarakan": [
+		"anger",
+		"sadness"
+	],
+	"memeras": [
+		"anger"
+	],
+	"memeriahkan": [
+		"joy",
+		"surprise"
+	],
+	"memfitnah": [
+		"anger",
+		"disgust"
+	],
+	"memikat": [
+		"joy",
+		"surprise"
+	],
+	"memiliki": [
+		"joy"
+	],
+	"meminta maaf": [
+		"sadness"
+	],
+	"memisahkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"memodifikasi": [
+		"surprise"
+	],
+	"mempekerjakan": [
+		"joy"
+	],
+	"memperbudak": [
+		"anger"
+	],
+	"mempercantik": [
+		"joy"
+	],
+	"mempercayai": [
+		"joy"
+	],
+	"memperdaya": [
+		"anger"
+	],
+	"memperingati": [
+		"joy",
+		"sadness"
+	],
+	"memperingatkan": [
+		"fear",
+		"surprise"
+	],
+	"memperkosa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"memperkuat": [
+		"joy"
+	],
+	"memperlambat": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mempermainkan": [
+		"anger",
+		"sadness"
+	],
+	"memperoleh": [
+		"joy"
+	],
+	"memperpanjang": [
+		"disgust"
+	],
+	"mempertaruhkan": [
+		"fear"
+	],
+	"mempertinggi": [
+		"fear"
+	],
+	"mempesona": [
+		"joy"
+	],
+	"memprovokasi": [
+		"anger",
+		"disgust"
+	],
+	"memuakkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"memuja": [
+		"fear",
+		"joy"
+	],
+	"memuji": [
+		"joy"
+	],
+	"memukau": [
+		"joy"
+	],
+	"memukul mundur": [
+		"disgust"
+	],
+	"memukul": [
+		"anger"
+	],
+	"memuliakan": [
+		"joy",
+		"surprise"
+	],
+	"memulihkan": [
+		"joy"
+	],
+	"memuntahkan": [
+		"disgust"
+	],
+	"memurnikan": [
+		"joy"
+	],
+	"memusnahkan": [
+		"fear",
+		"sadness"
+	],
+	"memveto": [
+		"anger"
+	],
+	"memvonis": [
+		"anger"
+	],
+	"menabrak": [
+		"anger"
+	],
+	"menagih": [
+		"anger",
+		"sadness",
+		"fear"
+	],
+	"menahan kembali": [
+		"anger"
+	],
+	"menahan": [
+		"fear"
+	],
+	"menakjubkan": [
+		"joy"
+	],
+	"menaksir terlalu tinggi": [
+		"surprise"
+	],
+	"menakuti": [
+		"fear"
+	],
+	"menakutkan": [
+		"fear",
+		"sadness"
+	],
+	"menambah": [
+		"joy"
+	],
+	"menanduk": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menanggung akibat": [
+		"anger"
+	],
+	"menangis": [
+		"sadness"
+	],
+	"menangkap": [
+		"fear"
+	],
+	"menanjak": [
+		"fear"
+	],
+	"menanyai": [
+		"fear"
+	],
+	"menari": [
+		"joy"
+	],
+	"menarik kembali": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menarik": [
+		"sadness"
+	],
+	"menawan": [
+		"joy"
+	],
+	"mencakar": [
+		"anger",
+		"fear"
+	],
+	"mencambuk": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mencampuri": [
+		"anger"
+	],
+	"mencegah": [
+		"fear"
+	],
+	"mencekik": [
+		"anger"
+	],
+	"mencela": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"mencemari": [
+		"anger"
+	],
+	"mencemarkan": [
+		"anger"
+	],
+	"mencemooh": [
+		"anger",
+		"fear"
+	],
+	"mencemoohkan": [
+		"anger",
+		"disgust"
+	],
+	"mencerahkan": [
+		"joy"
+	],
+	"mencoba-coba": [
+		"anger",
+		"disgust"
+	],
+	"mencolek": [
+		"disgust"
+	],
+	"mencolok": [
+		"anger",
+		"disgust"
+	],
+	"mencongkel": [
+		"anger"
+	],
+	"menculik": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"mencurangi": [
+		"anger",
+		"disgust"
+	],
+	"mencuri": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mencurigakan": [
+		"anger"
+	],
+	"mendadak": [
+		"surprise"
+	],
+	"mendakwa": [
+		"anger",
+		"fear"
+	],
+	"mendatang": [
+		"fear"
+	],
+	"mendebarkan": [
+		"joy",
+		"surprise"
+	],
+	"mendekam": [
+		"fear",
+		"sadness"
+	],
+	"mendengus": [
+		"sadness"
+	],
+	"menderita": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mendesah": [
+		"fear",
+		"sadness"
+	],
+	"mendesak": [
+		"anger"
+	],
+	"mendesis": [
+		"anger"
+	],
+	"mendidihkan": [
+		"disgust"
+	],
+	"mendominasi": [
+		"anger",
+		"fear"
+	],
+	"mendorong": [
+		"joy"
+	],
+	"menduga": [
+		"fear"
+	],
+	"mendukung": [
+		"joy"
+	],
+	"menebak": [
+		"surprise"
+	],
+	"menebus": [
+		"joy"
+	],
+	"menegaskan": [
+		"anger"
+	],
+	"meneguk": [
+		"disgust"
+	],
+	"menegur": [
+		"anger"
+	],
+	"menekan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menekankan": [
+		"anger"
+	],
+	"menelantarkan": [
+		"sadness"
+	],
+	"menembak": [
+		"anger",
+		"fear"
+	],
+	"menemukan": [
+		"surprise"
+	],
+	"menenangkan": [
+		"joy"
+	],
+	"menenggelamkan": [
+		"fear",
+		"sadness"
+	],
+	"menentang": [
+		"anger",
+		"fear"
+	],
+	"menerangi": [
+		"joy",
+		"surprise"
+	],
+	"meneriaki": [
+		"anger",
+		"disgust"
+	],
+	"menerima": [
+		"joy",
+		"surprise"
+	],
+	"meneror": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mengadili": [
+		"fear"
+	],
+	"mengagumkan": [
+		"joy"
+	],
+	"mengagungkan": [
+		"joy"
+	],
+	"mengajar": [
+		"joy",
+		"surprise"
+	],
+	"mengajukan perkara": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mengakhiri": [
+		"sadness"
+	],
+	"mengaku": [
+		"sadness"
+	],
+	"mengakui": [
+		"sadness"
+	],
+	"mengalah": [
+		"sadness"
+	],
+	"mengalahkan": [
+		"joy"
+	],
+	"mengamuk": [
+		"anger",
+		"fear"
+	],
+	"mengancam": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"mengangkat": [
+		"joy"
+	],
+	"menganiaya": [
+		"anger",
+		"fear"
+	],
+	"menganugerahkan": [
+		"joy"
+	],
+	"mengasah": [
+		"anger"
+	],
+	"mengasingkan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mengatur": [
+		"anger"
+	],
+	"mengecam": [
+		"anger"
+	],
+	"mengecewakan": [
+		"sadness"
+	],
+	"mengecilkan hati": [
+		"fear",
+		"sadness"
+	],
+	"mengejek": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mengejuntukan": [
+		"anger",
+		"fear"
+	],
+	"mengejutkan": [
+		"surprise"
+	],
+	"mengelabui": [
+		"sadness"
+	],
+	"mengelak": [
+		"fear",
+		"surprise"
+	],
+	"mengeluarkan": [
+		"disgust"
+	],
+	"mengeluh": [
+		"anger",
+		"sadness"
+	],
+	"mengemis": [
+		"sadness"
+	],
+	"mengenai baptis": [
+		"joy"
+	],
+	"mengenai pembunuhan": [
+		"anger",
+		"fear"
+	],
+	"mengencangkan": [
+		"anger"
+	],
+	"mengendap-endap": [
+		"fear",
+		"surprise"
+	],
+	"mengerang": [
+		"disgust",
+		"sadness"
+	],
+	"mengeras": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"mengerikan": [
+		"sadness"
+	],
+	"mengernyit": [
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"mengerutkan kening": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"mengesalkan": [
+		"anger"
+	],
+	"menggagalkan": [
+		"surprise"
+	],
+	"menggali": [
+		"anger"
+	],
+	"mengganggu": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"mengganti kerugian": [
+		"joy",
+		"surprise"
+	],
+	"mengganti": [
+		"fear"
+	],
+	"menggasak": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menggelapkan": [
+		"fear",
+		"sadness"
+	],
+	"menggelegar": [
+		"fear",
+		"sadness"
+	],
+	"menggelepar": [
+		"fear",
+		"sadness"
+	],
+	"menggeliat": [
+		"disgust"
+	],
+	"menggelikan": [
+		"disgust"
+	],
+	"menggelitik": [
+		"joy",
+		"surprise"
+	],
+	"menggemaskan": [
+		"joy"
+	],
+	"menggempur": [
+		"surprise"
+	],
+	"menggeram": [
+		"anger",
+		"disgust"
+	],
+	"menggerenyet": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menggertak": [
+		"anger"
+	],
+	"menggeser": [
+		"sadness"
+	],
+	"menggigil": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menggoda": [
+		"anger",
+		"fear"
+	],
+	"menggosok": [
+		"disgust"
+	],
+	"menggugurkan": [
+		"sadness"
+	],
+	"menggulingkan": [
+		"anger"
+	],
+	"menghadiahkan": [
+		"joy",
+		"surprise"
+	],
+	"menghalangi": [
+		"anger"
+	],
+	"menghancurkan": [
+		"anger",
+		"fear"
+	],
+	"menghanguskan": [
+		"anger"
+	],
+	"menghantam": [
+		"anger"
+	],
+	"menghantui": [
+		"fear"
+	],
+	"menghapus": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menghapuskan": [
+		"anger"
+	],
+	"mengharapkan": [
+		"sadness",
+		"fear"
+	],
+	"menghargai": [
+		"joy",
+		"sadness"
+	],
+	"menghasilkan": [
+		"joy"
+	],
+	"menghasut": [
+		"disgust",
+		"fear"
+	],
+	"menghentikan": [
+		"anger"
+	],
+	"menghibur": [
+		"joy"
+	],
+	"menghidupkan": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"menghilang": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menghilangkan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menghina": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menghindari": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"menghisap": [
+		"disgust"
+	],
+	"menghitung": [
+		"joy"
+	],
+	"menghormati": [
+		"joy"
+	],
+	"menghujat": [
+		"anger",
+		"disgust"
+	],
+	"menghukum": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mengigau": [
+		"sadness"
+	],
+	"mengilhami": [
+		"joy"
+	],
+	"mengintai": [
+		"surprise"
+	],
+	"mengira": [
+		"fear"
+	],
+	"mengirik": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mengisap": [
+		"disgust"
+	],
+	"mengkhawatirkan": [
+		"fear",
+		"sadness"
+	],
+	"mengkhianati": [
+		"anger",
+		"disgust",
+		"sadness",
+		"surprise"
+	],
+	"mengkritik": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mengoceh": [
+		"disgust"
+	],
+	"mengomel": [
+		"anger"
+	],
+	"mengonfrontasi": [
+		"anger"
+	],
+	"mengotori": [
+		"disgust"
+	],
+	"mengoyakkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mengubur": [
+		"sadness"
+	],
+	"mengucilkan": [
+		"anger",
+		"disgust"
+	],
+	"menguduskan": [
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"menguliti": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"mengundang": [
+		"joy",
+		"surprise"
+	],
+	"mengundi": [
+		"surprise"
+	],
+	"mengundurkan diri": [
+		"sadness"
+	],
+	"mengungguli": [
+		"joy"
+	],
+	"menguntungkan": [
+		"joy"
+	],
+	"mengupas": [
+		"sadness"
+	],
+	"menguping": [
+		"disgust"
+	],
+	"mengurangi": [
+		"sadness"
+	],
+	"menguras": [
+		"fear"
+	],
+	"mengusir": [
+		"anger",
+		"sadness"
+	],
+	"mengutip": [
+		"surprise"
+	],
+	"mengutuk": [
+		"anger"
+	],
+	"menikmati": [
+		"disgust",
+		"joy",
+		"sadness"
+	],
+	"menimbulkan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menimpa": [
+		"sadness",
+		"fear"
+	],
+	"menindas": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"meninggalkan": [
+		"anger"
+	],
+	"meningkat": [
+		"joy"
+	],
+	"meningkatkan": [
+		"joy"
+	],
+	"menipu": [
+		"surprise"
+	],
+	"meniru": [
+		"fear",
+		"disgust"
+	],
+	"menirukan": [
+		"fear",
+		"disgust"
+	],
+	"menjadi korban": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menjamin": [
+		"joy"
+	],
+	"menjanjikan": [
+		"joy"
+	],
+	"menjarah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menjatuhkan": [
+		"surprise"
+	],
+	"menjauhi": [
+		"sadness"
+	],
+	"menjauhkan diri": [
+		"anger",
+		"sadness"
+	],
+	"menjelaskan": [
+		"joy"
+	],
+	"menjemukan": [
+		"sadness"
+	],
+	"menjengkelkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"menjerit": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menjijikan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"menjijikkan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"menjilat": [
+		"disgust"
+	],
+	"menodai": [
+		"disgust",
+		"sadness"
+	],
+	"menolak": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menonaktifkan": [
+		"sadness",
+		"fear"
+	],
+	"mensucikan": [
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"mentah": [
+		"disgust"
+	],
+	"mentolerir": [
+		"anger",
+		"sadness"
+	],
+	"menuduh": [
+		"anger",
+		"fear"
+	],
+	"menukar": [
+		"fear"
+	],
+	"menukarkan": [
+		"fear"
+	],
+	"menular": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menulari": [
+		"disgust"
+	],
+	"menumbangkan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menumpas": [
+		"fear",
+		"sadness",
+		"anger"
+	],
+	"menunda": [
+		"disgust"
+	],
+	"menunggu": [
+		"fear",
+		"sadness"
+	],
+	"menuntut": [
+		"anger",
+		"sadness"
+	],
+	"menurun": [
+		"fear",
+		"sadness"
+	],
+	"menurunkan": [
+		"disgust"
+	],
+	"menusuk": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menutup perkara": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menutupi": [
+		"fear",
+		"sadness"
+	],
+	"menyakiti": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menyakitkan": [
+		"sadness"
+	],
+	"menyalahgunakan kekuasaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyalahgunakan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyalahkan": [
+		"anger"
+	],
+	"menyalak": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"menyamar": [
+		"fear",
+		"sadness"
+	],
+	"menyamarkan": [
+		"surprise"
+	],
+	"menyambut": [
+		"joy"
+	],
+	"menyampaikan": [
+		"joy"
+	],
+	"menyandera": [
+		"anger",
+		"fear"
+	],
+	"menyangkal": [
+		"anger",
+		"disgust"
+	],
+	"menyanjung": [
+		"joy"
+	],
+	"menyantuni": [
+		"sadness"
+	],
+	"menyanyi": [
+		"joy",
+		"sadness"
+	],
+	"menyatakan": [
+		"joy"
+	],
+	"menyayangi": [
+		"joy",
+		"surprise"
+	],
+	"menyayangkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"menyayat": [
+		"anger"
+	],
+	"menyeberang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"menyederhanakan": [
+		"joy",
+		"surprise"
+	],
+	"menyediakan": [
+		"joy"
+	],
+	"menyedihkan": [
+		"sadness"
+	],
+	"menyegarkan": [
+		"joy"
+	],
+	"menyelamatkan": [
+		"joy",
+		"surprise"
+	],
+	"menyelesaikan": [
+		"joy"
+	],
+	"menyelidiki": [
+		"anger"
+	],
+	"menyelinap": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"menyelubungi": [
+		"sadness"
+	],
+	"menyelundupkan": [
+		"fear"
+	],
+	"menyembelih": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menyenangkan": [
+		"joy"
+	],
+	"menyengat": [
+		"anger",
+		"fear"
+	],
+	"menyerah": [
+		"sadness"
+	],
+	"menyerahkan": [
+		"sadness"
+	],
+	"menyeramkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyerang": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"menyerbu": [
+		"anger"
+	],
+	"menyeringai": [
+		"joy",
+		"surprise"
+	],
+	"menyerobot": [
+		"anger",
+		"sadness"
+	],
+	"menyesal": [
+		"sadness"
+	],
+	"menyesali": [
+		"sadness"
+	],
+	"menyesatkan": [
+		"anger",
+		"disgust"
+	],
+	"menyetujui": [
+		"joy"
+	],
+	"menyia nyiakan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyiksa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyimpan": [
+		"joy"
+	],
+	"menyimpang": [
+		"sadness"
+	],
+	"menyinari": [
+		"joy"
+	],
+	"menyindir": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"menyinggung": [
+		"anger",
+		"disgust"
+	],
+	"menyisihkan": [
+		"anger",
+		"sadness",
+		"fear"
+	],
+	"menyita": [
+		"anger",
+		"sadness",
+		"fear"
+	],
+	"menyuap": [
+		"anger",
+		"disgust"
+	],
+	"menyukai": [
+		"joy"
+	],
+	"menyulap": [
+		"surprise"
+	],
+	"menyulitkan": [
+		"anger"
+	],
+	"menyumpahi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"menyusut": [
+		"sadness"
+	],
+	"meragukan": [
+		"fear"
+	],
+	"meraih": [
+		"joy"
+	],
+	"merampas": [
+		"anger",
+		"sadness"
+	],
+	"merana": [
+		"sadness",
+		"fear"
+	],
+	"merangkak": [
+		"disgust"
+	],
+	"merangkul": [
+		"joy",
+		"surprise"
+	],
+	"merangsang": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"merapikan": [
+		"joy"
+	],
+	"merasa ngeri": [
+		"fear"
+	],
+	"merasa tidak aman": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"merasa": [
+		"anger",
+		"disgust",
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"meratap": [
+		"fear",
+		"sadness"
+	],
+	"meratapi": [
+		"sadness"
+	],
+	"merawat": [
+		"anger",
+		"disgust",
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"merayakan": [
+		"joy"
+	],
+	"merayap": [
+		"sadness"
+	],
+	"merebus": [
+		"disgust"
+	],
+	"merebut": [
+		"anger",
+		"fear"
+	],
+	"meredakan": [
+		"joy"
+	],
+	"merekrut": [
+		"joy"
+	],
+	"meremehkan": [
+		"surprise"
+	],
+	"merendahkan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"merengek": [
+		"disgust",
+		"sadness"
+	],
+	"merenovasi": [
+		"joy"
+	],
+	"merenungkan": [
+		"joy"
+	],
+	"merepotkan": [
+		"anger",
+		"fear"
+	],
+	"merevisi": [
+		"joy"
+	],
+	"meriah": [
+		"joy"
+	],
+	"meriam": [
+		"anger",
+		"fear"
+	],
+	"meringankan": [
+		"joy"
+	],
+	"merobek": [
+		"surprise"
+	],
+	"merogoh": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"merugikan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"merusak bentuk": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"merusak": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"meskipun": [
+		"anger"
+	],
+	"mesum": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"metropolitan": [
+		"joy"
+	],
+	"mewah": [
+		"joy"
+	],
+	"mewajibkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"mewakili": [
+		"joy"
+	],
+	"meyakinkan": [
+		"joy"
+	],
+	"milik": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"milisi": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"militer": [
+		"fear"
+	],
+	"mimpi buruk": [
+		"fear"
+	],
+	"minoritas": [
+		"sadness"
+	],
+	"minuman keras": [
+		"anger",
+		"joy",
+		"sadness"
+	],
+	"minyak bumi": [
+		"disgust"
+	],
+	"minyak tanah": [
+		"fear"
+	],
+	"miring": [
+		"anger"
+	],
+	"miskin": [
+		"sadness",
+		"fear"
+	],
+	"misteri": [
+		"surprise"
+	],
+	"misterius": [
+		"fear",
+		"surprise"
+	],
+	"mistik": [
+		"surprise"
+	],
+	"mitra": [
+		"joy"
+	],
+	"mobil jenazah": [
+		"fear",
+		"sadness"
+	],
+	"modern": [
+		"joy",
+		"surprise"
+	],
+	"momok": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"moncong": [
+		"fear"
+	],
+	"monster": [
+		"fear"
+	],
+	"montok": [
+		"disgust"
+	],
+	"monumen": [
+		"sadness"
+	],
+	"moral": [
+		"anger",
+		"disgust",
+		"joy",
+		"surprise"
+	],
+	"morbiditas": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"mual": [
+		"disgust",
+		"sadness"
+	],
+	"mucikari": [
+		"disgust",
+		"sadness"
+	],
+	"muda": [
+		"joy",
+		"surprise"
+	],
+	"mudah dibodohi": [
+		"sadness"
+	],
+	"mudah diingat": [
+		"joy",
+		"surprise"
+	],
+	"mudah marah": [
+		"anger",
+		"sadness"
+	],
+	"mudah meledak": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"mudah rusak": [
+		"anger",
+		"sadness"
+	],
+	"mudah terpengaruh": [
+		"anger",
+		"sadness"
+	],
+	"mudah tersinggung": [
+		"anger",
+		"sadness"
+	],
+	"mukjizat": [
+		"joy"
+	],
+	"mulas": [
+		"sadness",
+		"fear"
+	],
+	"mulut": [
+		"surprise"
+	],
+	"munafik": [
+		"disgust"
+	],
+	"muncul lagi": [
+		"surprise"
+	],
+	"muntah": [
+		"disgust"
+	],
+	"muntahan": [
+		"disgust"
+	],
+	"murah": [
+		"joy"
+	],
+	"muram": [
+		"sadness"
+	],
+	"murka": [
+		"anger",
+		"fear"
+	],
+	"murung": [
+		"sadness"
+	],
+	"musik": [
+		"joy",
+		"sadness"
+	],
+	"musikal": [
+		"anger",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"muslihat": [
+		"sadness",
+		"anger"
+	],
+	"musnah": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"mustahil": [
+		"sadness"
+	],
+	"musuh": [
+		"anger",
+		"fear"
+	],
+	"mutilasi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"nafsu": [
+		"disgust"
+	],
+	"naga": [
+		"fear"
+	],
+	"najis": [
+		"disgust"
+	],
+	"nakal": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"naluriah": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"nanah": [
+		"disgust"
+	],
+	"nasihat": [
+		"joy"
+	],
+	"negatif": [
+		"sadness"
+	],
+	"negosiasi": [
+		"sadness"
+	],
+	"negro": [
+		"sadness"
+	],
+	"nenek moyang": [
+		"joy"
+	],
+	"nepotisme": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"neraka": [
+		"anger",
+		"fear"
+	],
+	"netral": [
+		"joy"
+	],
+	"neurotik": [
+		"disgust",
+		"fear"
+	],
+	"ngawur": [
+		"sadness"
+	],
+	"nge-rap": [
+		"anger"
+	],
+	"ngelantur": [
+		"sadness",
+		"anger"
+	],
+	"ngeri": [
+		"fear"
+	],
+	"ngiler": [
+		"disgust"
+	],
+	"ngomel": [
+		"anger",
+		"disgust"
+	],
+	"nikah": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"nikmat": [
+		"joy"
+	],
+	"nikmati": [
+		"joy"
+	],
+	"nikotin": [
+		"disgust"
+	],
+	"nirkabel": [
+		"anger",
+		"surprise"
+	],
+	"nisan": [
+		"sadness"
+	],
+	"noda": [
+		"sadness"
+	],
+	"nyaman": [
+		"joy"
+	],
+	"nyamuk": [
+		"anger",
+		"disgust"
+	],
+	"nyanyian pujian": [
+		"joy",
+		"sadness"
+	],
+	"nyanyian": [
+		"anger",
+		"joy",
+		"surprise"
+	],
+	"nyaring": [
+		"joy"
+	],
+	"nyata": [
+		"joy"
+	],
+	"nyeri": [
+		"anger",
+		"sadness"
+	],
+	"nyonya": [
+		"anger",
+		"disgust"
+	],
+	"oasis": [
+		"joy"
+	],
+	"obat": [
+		"joy",
+		"sadness"
+	],
+	"obi": [
+		"disgust",
+		"fear"
+	],
+	"obstruktif": [
+		"anger"
+	],
+	"ocehan": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"oligarki": [
+		"anger"
+	],
+	"omelan": [
+		"anger",
+		"disgust"
+	],
+	"omongan": [
+		"anger",
+		"sadness"
+	],
+	"opera": [
+		"anger",
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"operasi": [
+		"fear"
+	],
+	"optimis": [
+		"joy"
+	],
+	"optimisme": [
+		"joy",
+		"surprise"
+	],
+	"orang aneh": [
+		"fear"
+	],
+	"orang asing": [
+		"fear"
+	],
+	"orang bodoh": [
+		"disgust"
+	],
+	"orang buangan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"orang cabul": [
+		"anger",
+		"disgust"
+	],
+	"orang gila": [
+		"anger",
+		"fear"
+	],
+	"orang hutangan": [
+		"fear"
+	],
+	"orang kejam": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"orang luar": [
+		"fear"
+	],
+	"orang miskin": [
+		"sadness"
+	],
+	"orang munafik": [
+		"disgust"
+	],
+	"orang yang menyedihkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"orang yang tidak hadir": [
+		"sadness"
+	],
+	"orang yang tidak menyenangkan": [
+		"anger",
+		"fear"
+	],
+	"orang-orangan sawah": [
+		"fear"
+	],
+	"orc": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"organ": [
+		"joy"
+	],
+	"organisasi": [
+		"joy",
+		"surprise"
+	],
+	"orgasme": [
+		"joy"
+	],
+	"orkestra": [
+		"anger",
+		"joy",
+		"sadness"
+	],
+	"pacaran": [
+		"joy"
+	],
+	"pacuan kuda": [
+		"sadness"
+	],
+	"padat": [
+		"disgust"
+	],
+	"pagar betis": [
+		"fear"
+	],
+	"pahlawan": [
+		"joy",
+		"surprise"
+	],
+	"pajak": [
+		"sadness"
+	],
+	"paksaan": [
+		"joy"
+	],
+	"paku": [
+		"fear"
+	],
+	"paling tinggi": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"palsu": [
+		"disgust"
+	],
+	"panas": [
+		"anger"
+	],
+	"pandemi": [
+		"fear",
+		"sadness"
+	],
+	"panik": [
+		"fear"
+	],
+	"pantai": [
+		"joy"
+	],
+	"panti asuhan": [
+		"sadness"
+	],
+	"parade": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"paranoid": [
+		"fear"
+	],
+	"parasit": [
+		"disgust",
+		"fear"
+	],
+	"parasut": [
+		"fear"
+	],
+	"parodi": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pasangan": [
+		"joy"
+	],
+	"pastry": [
+		"joy"
+	],
+	"pasu": [
+		"sadness"
+	],
+	"pecah": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pecahan peluru meriam": [
+		"fear"
+	],
+	"pedalaman": [
+		"disgust"
+	],
+	"pedang": [
+		"anger",
+		"fear"
+	],
+	"pedih": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"pejuang": [
+		"anger",
+		"fear"
+	],
+	"pekerjaan rumah": [
+		"fear"
+	],
+	"pelacur": [
+		"disgust"
+	],
+	"pelacuran": [
+		"disgust",
+		"sadness"
+	],
+	"pelaku": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pelanggar": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pelanggaran hukum": [
+		"anger",
+		"fear"
+	],
+	"pelanggaran": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"pelawak": [
+		"joy",
+		"surprise"
+	],
+	"pelayar": [
+		"disgust"
+	],
+	"pelit": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pelukan": [
+		"joy"
+	],
+	"pelupaan": [
+		"anger",
+		"fear"
+	],
+	"peluru kendali": [
+		"fear"
+	],
+	"peluru": [
+		"fear"
+	],
+	"pemahkotaan": [
+		"joy"
+	],
+	"pemain akrobat": [
+		"fear",
+		"joy"
+	],
+	"pemain gadungan": [
+		"anger"
+	],
+	"pemakaman": [
+		"sadness"
+	],
+	"pemalu": [
+		"fear",
+		"sadness"
+	],
+	"pemarah": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"pemasukan": [
+		"sadness"
+	],
+	"pembakar": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"pembalas": [
+		"anger"
+	],
+	"pembalasan dendam": [
+		"anger"
+	],
+	"pembalasan": [
+		"anger"
+	],
+	"pembangkang": [
+		"anger",
+		"fear"
+	],
+	"pembangkangan": [
+		"anger",
+		"disgust"
+	],
+	"pembantaian": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pembantu kepala polisi": [
+		"fear"
+	],
+	"pembasmi": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pembebasan": [
+		"joy",
+		"surprise"
+	],
+	"pembedahan": [
+		"fear",
+		"sadness"
+	],
+	"pembelaan": [
+		"anger",
+		"joy"
+	],
+	"pembenahan": [
+		"joy",
+		"surprise"
+	],
+	"pembenaran": [
+		"joy",
+		"surprise"
+	],
+	"pembengkakan": [
+		"fear"
+	],
+	"pemberani": [
+		"joy",
+		"surprise"
+	],
+	"pemberantasan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pemberontak": [
+		"anger",
+		"fear"
+	],
+	"pemberontakan": [
+		"anger",
+		"fear"
+	],
+	"pembersih kamar mandi": [
+		"disgust"
+	],
+	"pembohong": [
+		"disgust"
+	],
+	"pembom": [
+		"fear",
+		"sadness"
+	],
+	"pembuangan": [
+		"disgust"
+	],
+	"pembubaran": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pembunuh": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pembunuhan anak": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pembunuhan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pemburu": [
+		"fear",
+		"sadness"
+	],
+	"pemecatan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pemegatan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pemenang": [
+		"joy",
+		"surprise"
+	],
+	"pemenuhan": [
+		"joy"
+	],
+	"pemerasan": [
+		"anger",
+		"fear"
+	],
+	"pemerintah yang sewenang-wenang": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pemerintah": [
+		"fear"
+	],
+	"pemilikan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pemisahan": [
+		"sadness"
+	],
+	"pemotongan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pemujaan berhala": [
+		"disgust",
+		"fear"
+	],
+	"pemukim": [
+		"fear"
+	],
+	"pemulihan nama baik": [
+		"joy"
+	],
+	"pemutarbalikan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"pemutusan": [
+		"sadness"
+	],
+	"penahanan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penaklukan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penalti": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penampakan": [
+		"fear",
+		"surprise"
+	],
+	"penangguhan": [
+		"fear"
+	],
+	"penangkap": [
+		"fear"
+	],
+	"penangkapan": [
+		"fear"
+	],
+	"penasihat": [
+		"anger",
+		"fear"
+	],
+	"penat": [
+		"disgust"
+	],
+	"pencabutan": [
+		"anger",
+		"sadness"
+	],
+	"pencahar": [
+		"disgust",
+		"fear"
+	],
+	"pencalonan": [
+		"surprise",
+		"joy"
+	],
+	"pencapaian": [
+		"surprise",
+		"joy"
+	],
+	"pencarian": [
+		"surprise",
+		"joy"
+	],
+	"pencegahan": [
+		"sadness"
+	],
+	"pencerahan": [
+		"joy"
+	],
+	"penculikan": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"pencuri": [
+		"disgust",
+		"fear"
+	],
+	"pencurian": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pendaftaran": [
+		"surprise"
+	],
+	"pendamping": [
+		"joy"
+	],
+	"pendarahan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pendatang": [
+		"fear",
+		"surprise"
+	],
+	"pendendam": [
+		"anger",
+		"disgust"
+	],
+	"pendengaran": [
+		"fear"
+	],
+	"penderita": [
+		"fear",
+		"sadness"
+	],
+	"penderitaan": [
+		"fear",
+		"sadness"
+	],
+	"pendeta": [
+		"joy"
+	],
+	"pendidikan": [
+		"joy"
+	],
+	"pendosa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pendukung": [
+		"joy"
+	],
+	"penebusan dosa": [
+		"fear",
+		"sadness"
+	],
+	"penebusan": [
+		"fear"
+	],
+	"penegasan": [
+		"anger"
+	],
+	"penekanan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"penembak": [
+		"fear"
+	],
+	"penemu": [
+		"joy"
+	],
+	"penemuan": [
+		"surprise"
+	],
+	"penentang": [
+		"anger"
+	],
+	"penerangan": [
+		"joy",
+		"surprise"
+	],
+	"penerbangan": [
+		"fear"
+	],
+	"penerima": [
+		"joy",
+		"surprise"
+	],
+	"penerimaan": [
+		"surprise"
+	],
+	"penetrasi": [
+		"anger",
+		"fear"
+	],
+	"pengabadian": [
+		"joy"
+	],
+	"pengabaian": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengacara": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pengacau": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"pengadilan": [
+		"disgust",
+		"fear"
+	],
+	"pengaduan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pengagum": [
+		"joy"
+	],
+	"pengajar": [
+		"joy"
+	],
+	"pengalihan": [
+		"surprise"
+	],
+	"pengangguran": [
+		"fear",
+		"sadness"
+	],
+	"penganiayaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengantin perempuan": [
+		"joy"
+	],
+	"pengantin pria": [
+		"joy"
+	],
+	"pengantin": [
+		"joy"
+	],
+	"penganugerahan": [
+		"joy",
+		"surprise"
+	],
+	"pengasingan": [
+		"fear"
+	],
+	"pengasuh": [
+		"joy"
+	],
+	"pengawal": [
+		"joy"
+	],
+	"pengawas": [
+		"fear"
+	],
+	"pengawasan": [
+		"fear"
+	],
+	"pengawet": [
+		"joy",
+		"surprise"
+	],
+	"pengeboman": [
+		"anger",
+		"fear"
+	],
+	"pengecualian": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengecut": [
+		"disgust",
+		"fear"
+	],
+	"pengekangan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"pengeluaran": [
+		"disgust"
+	],
+	"pengemis": [
+		"sadness"
+	],
+	"pengetahuan": [
+		"joy"
+	],
+	"penggalian": [
+		"surprise"
+	],
+	"pengganggu": [
+		"anger",
+		"fear"
+	],
+	"pengganti": [
+		"sadness"
+	],
+	"penggantian": [
+		"sadness"
+	],
+	"penggantungan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penggelapan": [
+		"anger",
+		"sadness"
+	],
+	"penggemar": [
+		"joy",
+		"surprise"
+	],
+	"penggoda": [
+		"joy",
+		"surprise"
+	],
+	"penggugat": [
+		"sadness"
+	],
+	"pengguguran": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penghalang": [
+		"anger"
+	],
+	"penghambatan": [
+		"fear"
+	],
+	"penghancuran": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"penghapusan": [
+		"fear",
+		"sadness"
+	],
+	"penghargaan": [
+		"joy",
+		"surprise"
+	],
+	"penghasilan": [
+		"joy",
+		"sadness"
+	],
+	"penghematan": [
+		"disgust"
+	],
+	"penghentian": [
+		"sadness"
+	],
+	"penghinaan": [
+		"disgust",
+		"sadness"
+	],
+	"penghindaran": [
+		"fear",
+		"sadness"
+	],
+	"penghormatan": [
+		"joy"
+	],
+	"penghukuman": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengiring": [
+		"joy"
+	],
+	"pengkhianat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengkhianatan": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"pengkritik": [
+		"anger"
+	],
+	"pengorbanan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penguasaan": [
+		"anger",
+		"joy"
+	],
+	"penguatan": [
+		"joy"
+	],
+	"penguburan": [
+		"sadness"
+	],
+	"pengudusan": [
+		"joy"
+	],
+	"pengunduran diri": [
+		"sadness",
+		"surprise"
+	],
+	"pengungsi": [
+		"sadness"
+	],
+	"pengungsian": [
+		"sadness"
+	],
+	"pengunjung": [
+		"joy"
+	],
+	"penguraian": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengurangan": [
+		"sadness"
+	],
+	"pengurus": [
+		"sadness"
+	],
+	"pengurusan mayat": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengusir": [
+		"disgust",
+		"fear"
+	],
+	"pengusiran setan": [
+		"fear",
+		"sadness"
+	],
+	"pengusiran": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pengutang": [
+		"disgust",
+		"fear"
+	],
+	"penikmat": [
+		"joy"
+	],
+	"penilaian": [
+		"surprise"
+	],
+	"penindas": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penindasan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"peninggalan": [
+		"sadness"
+	],
+	"peninggian": [
+		"joy"
+	],
+	"peningkatan": [
+		"joy"
+	],
+	"penipu": [
+		"disgust"
+	],
+	"penipuan": [
+		"anger"
+	],
+	"peniru": [
+		"anger",
+		"disgust"
+	],
+	"peniruan": [
+		"surprise"
+	],
+	"penistaan": [
+		"anger"
+	],
+	"penjahat": [
+		"fear"
+	],
+	"penjara bawah tanah": [
+		"fear"
+	],
+	"penjara": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penjudi": [
+		"surprise"
+	],
+	"penodaan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penolak": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"penolakan": [
+		"anger",
+		"disgust"
+	],
+	"pensucian": [
+		"joy"
+	],
+	"pentahbisan": [
+		"joy"
+	],
+	"penting": [
+		"fear",
+		"surprise"
+	],
+	"penuduh": [
+		"anger",
+		"fear"
+	],
+	"penuh bencana": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penuh bintang": [
+		"joy"
+	],
+	"penuh dosa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penuh kasih": [
+		"joy"
+	],
+	"penuh kebencian": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penuh kegembiraan": [
+		"joy"
+	],
+	"penuh makna": [
+		"joy"
+	],
+	"penuh semangat": [
+		"joy"
+	],
+	"penularan": [
+		"disgust",
+		"fear"
+	],
+	"penumpasan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"penuntut": [
+		"anger",
+		"disgust"
+	],
+	"penuntutan": [
+		"disgust"
+	],
+	"penurunan": [
+		"sadness"
+	],
+	"penutup mata": [
+		"fear",
+		"surprise"
+	],
+	"penutup": [
+		"joy",
+		"sadness"
+	],
+	"penyajian yang salah": [
+		"sadness"
+	],
+	"penyakit jiwa": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penyakit": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penyalahgunaan": [
+		"sadness",
+		"disgust"
+	],
+	"penyaliban": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penyamaran": [
+		"surprise"
+	],
+	"penyangkalan": [
+		"anger"
+	],
+	"penyatuan": [
+		"joy"
+	],
+	"penyayang": [
+		"joy"
+	],
+	"penyeberangan": [
+		"fear"
+	],
+	"penyelamatan": [
+		"joy"
+	],
+	"penyelesaian": [
+		"joy"
+	],
+	"penyelewengan": [
+		"disgust",
+		"fear"
+	],
+	"penyelundup": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"penyembuhan": [
+		"joy"
+	],
+	"penyembunyian": [
+		"anger",
+		"fear"
+	],
+	"penyerang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penyerangan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"penyerbu": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"penyergapan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"penyihir": [
+		"surprise"
+	],
+	"penyimpangan": [
+		"disgust"
+	],
+	"penyitaan": [
+		"anger",
+		"sadness"
+	],
+	"penyok": [
+		"sadness"
+	],
+	"penyuapan": [
+		"disgust"
+	],
+	"penyumbatan": [
+		"fear"
+	],
+	"peracunan": [
+		"disgust"
+	],
+	"perada": [
+		"joy"
+	],
+	"peradilan": [
+		"fear"
+	],
+	"perampasan": [
+		"fear",
+		"sadness"
+	],
+	"perampok": [
+		"disgust",
+		"fear"
+	],
+	"perampokan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"perancah": [
+		"fear"
+	],
+	"perang salib": [
+		"anger",
+		"fear"
+	],
+	"perang": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"perangsangan": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"perasaan bersalah": [
+		"disgust",
+		"sadness"
+	],
+	"perasaan muak": [
+		"disgust",
+		"fear"
+	],
+	"perasaan tersinggung": [
+		"anger",
+		"disgust"
+	],
+	"peraturan": [
+		"fear"
+	],
+	"perawan tua": [
+		"fear",
+		"sadness"
+	],
+	"perayaan": [
+		"joy",
+		"surprise"
+	],
+	"perbaikan": [
+		"joy",
+		"surprise"
+	],
+	"perbuatan baik": [
+		"joy"
+	],
+	"perbuatan": [
+		"joy"
+	],
+	"perbudakan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"perburuan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"percakapan": [
+		"joy"
+	],
+	"percaya diri": [
+		"joy"
+	],
+	"percaya": [
+		"joy"
+	],
+	"perceraian": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"percintaan": [
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"percobaan": [
+		"surprise"
+	],
+	"perdamaian": [
+		"joy"
+	],
+	"perdebatan": [
+		"anger"
+	],
+	"perempuan jalang": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pergolakan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"pergumulan": [
+		"surprise"
+	],
+	"peri": [
+		"surprise"
+	],
+	"periang": [
+		"joy"
+	],
+	"peringatan": [
+		"fear"
+	],
+	"peringkat": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"perjamuan": [
+		"joy"
+	],
+	"perkasa": [
+		"anger",
+		"fear",
+		"joy"
+	],
+	"perkawinan": [
+		"joy"
+	],
+	"perkelahian": [
+		"fear"
+	],
+	"perkembangan": [
+		"joy"
+	],
+	"perlawanan": [
+		"anger"
+	],
+	"permata": [
+		"joy"
+	],
+	"permen": [
+		"joy"
+	],
+	"permohonan": [
+		"fear",
+		"sadness"
+	],
+	"permusuhan": [
+		"anger",
+		"disgust"
+	],
+	"pernikahan": [
+		"joy"
+	],
+	"pernyataan yang salah": [
+		"anger",
+		"disgust"
+	],
+	"perokok": [
+		"disgust"
+	],
+	"perompak": [
+		"anger"
+	],
+	"perpecahan": [
+		"anger"
+	],
+	"perpisahan": [
+		"sadness"
+	],
+	"persahabatan": [
+		"joy"
+	],
+	"persaingan": [
+		"anger"
+	],
+	"persamaan": [
+		"joy"
+	],
+	"persatuan": [
+		"joy"
+	],
+	"persaudaraan wanita": [
+		"anger",
+		"sadness",
+		"surprise"
+	],
+	"persaudaraan": [
+		"joy"
+	],
+	"perselisihan": [
+		"anger"
+	],
+	"persembahan": [
+		"joy",
+		"sadness"
+	],
+	"persenjataan": [
+		"fear"
+	],
+	"pertahanan": [
+		"anger",
+		"fear"
+	],
+	"pertanda": [
+		"fear"
+	],
+	"pertandingan": [
+		"anger"
+	],
+	"pertapa": [
+		"sadness"
+	],
+	"pertarungan": [
+		"anger"
+	],
+	"pertempuran kecil": [
+		"anger"
+	],
+	"pertempuran": [
+		"anger",
+		"fear"
+	],
+	"pertengkaran": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"pertentangan": [
+		"anger",
+		"sadness"
+	],
+	"pertikaian": [
+		"anger"
+	],
+	"pertimbangan": [
+		"surprise"
+	],
+	"pertumpahan darah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"perubahan warna": [
+		"disgust"
+	],
+	"perubahan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"perusak": [
+		"anger",
+		"fear"
+	],
+	"perut kembung": [
+		"disgust"
+	],
+	"perut": [
+		"disgust"
+	],
+	"pesimis": [
+		"fear",
+		"sadness"
+	],
+	"pesimisme": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"pesolek": [
+		"disgust"
+	],
+	"pesta": [
+		"joy",
+		"surprise"
+	],
+	"pesulap": [
+		"surprise"
+	],
+	"petasan": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"peti mati": [
+		"fear",
+		"sadness"
+	],
+	"petir": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"pewawancara": [
+		"fear"
+	],
+	"piala": [
+		"joy",
+		"surprise"
+	],
+	"picik": [
+		"anger",
+		"fear"
+	],
+	"pidana": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pijat": [
+		"joy"
+	],
+	"piket": [
+		"anger"
+	],
+	"piknik": [
+		"joy",
+		"surprise"
+	],
+	"pikun": [
+		"fear",
+		"sadness"
+	],
+	"pilih": [
+		"anger",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"pilu": [
+		"sadness"
+	],
+	"pingsan": [
+		"fear",
+		"sadness"
+	],
+	"pinus": [
+		"sadness"
+	],
+	"pisau bedah": [
+		"fear"
+	],
+	"pisau cukur": [
+		"fear"
+	],
+	"pistol": [
+		"fear",
+		"sadness"
+	],
+	"pita": [
+		"anger",
+		"joy"
+	],
+	"plagiat": [
+		"disgust"
+	],
+	"plakat": [
+		"surprise"
+	],
+	"pohon jati": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"pohon": [
+		"anger",
+		"disgust",
+		"joy",
+		"surprise"
+	],
+	"polaritas": [
+		"surprise"
+	],
+	"polemik": [
+		"anger",
+		"disgust"
+	],
+	"poligami": [
+		"disgust"
+	],
+	"polio": [
+		"fear",
+		"sadness"
+	],
+	"polisi": [
+		"fear",
+		"joy",
+		"sadness"
+	],
+	"politik": [
+		"anger"
+	],
+	"polusi": [
+		"disgust"
+	],
+	"pondok": [
+		"sadness"
+	],
+	"pop": [
+		"surprise"
+	],
+	"popok": [
+		"disgust"
+	],
+	"porno": [
+		"disgust",
+		"sadness"
+	],
+	"pornografi": [
+		"disgust"
+	],
+	"pos terdepan": [
+		"fear"
+	],
+	"prasangka": [
+		"anger"
+	],
+	"prasmanan": [
+		"anger"
+	],
+	"prematur": [
+		"surprise"
+	],
+	"prestasi": [
+		"joy",
+		"surprise"
+	],
+	"prestise": [
+		"joy"
+	],
+	"prognosa": [
+		"fear"
+	],
+	"proklamasi": [
+		"fear"
+	],
+	"promosi": [
+		"joy"
+	],
+	"prosedur": [
+		"fear",
+		"joy"
+	],
+	"prosesi": [
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"protestan": [
+		"fear"
+	],
+	"provokasi": [
+		"anger"
+	],
+	"psikosis": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"puas": [
+		"joy"
+	],
+	"puasa": [
+		"sadness"
+	],
+	"puing": [
+		"fear",
+		"sadness"
+	],
+	"pujian": [
+		"joy"
+	],
+	"pukulan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"puma": [
+		"fear",
+		"surprise"
+	],
+	"punah": [
+		"sadness"
+	],
+	"pupuk": [
+		"disgust"
+	],
+	"pusaran air": [
+		"fear"
+	],
+	"pusing": [
+		"fear",
+		"sadness"
+	],
+	"putih": [
+		"joy"
+	],
+	"putihnya": [
+		"joy"
+	],
+	"putus asa": [
+		"sadness"
+	],
+	"putus": [
+		"sadness"
+	],
+	"putusan": [
+		"fear"
+	],
+	"rabun": [
+		"anger",
+		"sadness"
+	],
+	"racun": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"radiasi": [
+		"fear"
+	],
+	"radioaktif": [
+		"fear"
+	],
+	"radon": [
+		"fear"
+	],
+	"ragu": [
+		"fear",
+		"sadness"
+	],
+	"rahmat": [
+		"joy",
+		"surprise"
+	],
+	"raksa": [
+		"surprise"
+	],
+	"raksasa": [
+		"disgust",
+		"fear"
+	],
+	"rakyat jelata": [
+		"anger",
+		"fear"
+	],
+	"ramah tamah": [
+		"joy"
+	],
+	"rampok": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"rapi": [
+		"joy"
+	],
+	"rasa bersalah": [
+		"sadness"
+	],
+	"rasa gelisah": [
+		"sadness"
+	],
+	"rasa ingin tahu": [
+		"surprise"
+	],
+	"rasa malu": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"rasa nyeri": [
+		"surprise"
+	],
+	"rasa sakit": [
+		"disgust",
+		"sadness"
+	],
+	"rasa syukur": [
+		"joy"
+	],
+	"rasa takut": [
+		"fear"
+	],
+	"rasa tidak enak": [
+		"sadness"
+	],
+	"rasional": [
+		"joy"
+	],
+	"rawa": [
+		"disgust",
+		"fear"
+	],
+	"rayap": [
+		"disgust"
+	],
+	"reaksi": [
+		"anger",
+		"fear"
+	],
+	"redaman": [
+		"sadness"
+	],
+	"refleks": [
+		"surprise"
+	],
+	"regu": [
+		"fear"
+	],
+	"rekonsiliasi": [
+		"joy"
+	],
+	"rekreasi": [
+		"joy"
+	],
+	"rel": [
+		"anger"
+	],
+	"relung": [
+		"fear"
+	],
+	"renda": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"rendah": [
+		"sadness"
+	],
+	"renovasi": [
+		"joy"
+	],
+	"rentan": [
+		"sadness",
+		"fear"
+	],
+	"represi": [
+		"fear"
+	],
+	"reproduksi": [
+		"joy"
+	],
+	"resah": [
+		"fear"
+	],
+	"reseksi": [
+		"fear"
+	],
+	"resesi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"resiko": [
+		"fear"
+	],
+	"resimen": [
+		"fear"
+	],
+	"restitusi": [
+		"anger"
+	],
+	"restoratif": [
+		"joy"
+	],
+	"retak": [
+		"sadness",
+		"fear"
+	],
+	"retakan": [
+		"sadness",
+		"fear"
+	],
+	"retribusi": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"reumatik": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"reuni": [
+		"joy"
+	],
+	"revolusi": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"rewel": [
+		"sadness"
+	],
+	"reyot": [
+		"sadness"
+	],
+	"riang": [
+		"joy"
+	],
+	"riba": [
+		"anger",
+		"sadness"
+	],
+	"ribut": [
+		"anger",
+		"fear"
+	],
+	"rindu": [
+		"sadness"
+	],
+	"rintangan ": [
+		"fear"
+	],
+	"rintangan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"riuh": [
+		"anger",
+		"joy"
+	],
+	"roadster": [
+		"joy"
+	],
+	"robek": [
+		"sadness"
+	],
+	"roket": [
+		"anger"
+	],
+	"rokok": [
+		"disgust"
+	],
+	"romantis": [
+		"joy"
+	],
+	"romantisme": [
+		"joy"
+	],
+	"roti panggang": [
+		"joy"
+	],
+	"ruam": [
+		"disgust"
+	],
+	"ruang bawah tanah": [
+		"fear",
+		"sadness"
+	],
+	"ruas": [
+		"fear"
+	],
+	"rumah bermain": [
+		"joy"
+	],
+	"rumah jagal": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"rumah sakit": [
+		"fear",
+		"sadness"
+	],
+	"rumit": [
+		"sadness"
+	],
+	"rumput liar": [
+		"sadness"
+	],
+	"runtuh": [
+		"sadness"
+	],
+	"rusak": [
+		"anger"
+	],
+	"sabar": [
+		"joy"
+	],
+	"sabotase": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"sabuk": [
+		"anger",
+		"fear"
+	],
+	"sakit gigi": [
+		"fear"
+	],
+	"sakit hati": [
+		"anger"
+	],
+	"sakit saraf": [
+		"fear",
+		"sadness"
+	],
+	"sakit": [
+		"sadness"
+	],
+	"sakitan": [
+		"disgust",
+		"sadness"
+	],
+	"sakti": [
+		"joy",
+		"surprise"
+	],
+	"salah meletakkan": [
+		"anger",
+		"disgust"
+	],
+	"salah mengartikan": [
+		"anger"
+	],
+	"salam": [
+		"surprise"
+	],
+	"saleh": [
+		"disgust",
+		"sadness"
+	],
+	"salju longsor": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"saluran pembuangan": [
+		"disgust"
+	],
+	"sambutan hangat": [
+		"anger",
+		"disgust",
+		"joy",
+		"surprise"
+	],
+	"sampah": [
+		"disgust",
+		"sadness"
+	],
+	"sampar": [
+		"disgust",
+		"fear"
+	],
+	"samurai": [
+		"fear"
+	],
+	"sandera": [
+		"anger",
+		"fear"
+	],
+	"sandiwara sensasi": [
+		"anger",
+		"sadness"
+	],
+	"sangat buruk": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sangat halus": [
+		"fear"
+	],
+	"sangat indah": [
+		"joy"
+	],
+	"sangat kuat": [
+		"anger",
+		"fear"
+	],
+	"sangat lapar": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"sangat marah": [
+		"anger",
+		"disgust"
+	],
+	"sangat rapi": [
+		"joy"
+	],
+	"sangat": [
+		"joy",
+		"surprise"
+	],
+	"sanggahan": [
+		"fear"
+	],
+	"sangkar": [
+		"anger",
+		"disgust"
+	],
+	"sangkur": [
+		"anger",
+		"fear"
+	],
+	"santai": [
+		"joy",
+		"surprise"
+	],
+	"sarkasme": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"sarkoma": [
+		"fear",
+		"sadness"
+	],
+	"sarung tangan bulu": [
+		"anger",
+		"disgust"
+	],
+	"satu warna": [
+		"disgust"
+	],
+	"sayang": [
+		"joy",
+		"sadness"
+	],
+	"sayap": [
+		"fear"
+	],
+	"scrapie": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"secara acak": [
+		"surprise"
+	],
+	"secara harmonis": [
+		"joy"
+	],
+	"secara intim": [
+		"fear",
+		"joy"
+	],
+	"secara keliru": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"secara menyedihkan": [
+		"sadness"
+	],
+	"secara paksa": [
+		"anger",
+		"fear"
+	],
+	"secara tiba-tiba": [
+		"surprise"
+	],
+	"secara tidak sengaja": [
+		"surprise"
+	],
+	"sedih": [
+		"sadness"
+	],
+	"segan": [
+		"fear"
+	],
+	"segera terjadi": [
+		"fear"
+	],
+	"sehat": [
+		"disgust"
+	],
+	"seikat bunga": [
+		"joy"
+	],
+	"sejahtera": [
+		"joy"
+	],
+	"sekam": [
+		"anger",
+		"fear"
+	],
+	"sekarat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sekolah": [
+		"joy"
+	],
+	"sekongkolan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sekresi": [
+		"disgust"
+	],
+	"seks": [
+		"joy"
+	],
+	"sekuestrasi": [
+		"sadness"
+	],
+	"selat": [
+		"fear"
+	],
+	"selebriti": [
+		"anger",
+		"disgust",
+		"joy",
+		"surprise"
+	],
+	"selingkuhan": [
+		"anger",
+		"disgust"
+	],
+	"selip": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"selir": [
+		"anger",
+		"disgust"
+	],
+	"selokan": [
+		"disgust"
+	],
+	"semangat": [
+		"joy"
+	],
+	"sembarangan": [
+		"disgust"
+	],
+	"sembelit": [
+		"disgust"
+	],
+	"sembrono": [
+		"anger",
+		"sadness"
+	],
+	"sembuh": [
+		"joy"
+	],
+	"sembunyi": [
+		"fear",
+		"surprise"
+	],
+	"sembunyi-sembunyi": [
+		"surprise"
+	],
+	"sempoyongan": [
+		"surprise"
+	],
+	"sempurna": [
+		"joy"
+	],
+	"senang sekali": [
+		"joy",
+		"surprise"
+	],
+	"senang": [
+		"joy"
+	],
+	"senapan": [
+		"anger",
+		"fear"
+	],
+	"sendirian": [
+		"sadness"
+	],
+	"sengit": [
+		"fear"
+	],
+	"sengsara": [
+		"sadness"
+	],
+	"seni": [
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"senjata api": [
+		"anger",
+		"fear"
+	],
+	"senjata berat": [
+		"fear"
+	],
+	"senjata": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"sensasi": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"sensasional": [
+		"joy"
+	],
+	"sensor": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"sensual": [
+		"joy"
+	],
+	"sensualitas": [
+		"joy"
+	],
+	"sentakan": [
+		"surprise"
+	],
+	"senyum sinis": [
+		"disgust"
+	],
+	"senyum": [
+		"joy",
+		"surprise"
+	],
+	"sepa": [
+		"sadness"
+	],
+	"sepak bola": [
+		"joy"
+	],
+	"sepakan": [
+		"anger"
+	],
+	"separatis": [
+		"anger",
+		"disgust"
+	],
+	"sepele": [
+		"anger",
+		"sadness"
+	],
+	"sepenuh hati": [
+		"joy"
+	],
+	"seperti bangsawan": [
+		"joy",
+		"surprise"
+	],
+	"seperti budak": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"seperti malaikat": [
+		"joy"
+	],
+	"sepi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sepsis": [
+		"fear",
+		"sadness"
+	],
+	"septik": [
+		"disgust"
+	],
+	"seram": [
+		"disgust"
+	],
+	"serampangan": [
+		"disgust"
+	],
+	"serangan mendadak": [
+		"fear"
+	],
+	"serangan tiba-tiba": [
+		"surprise"
+	],
+	"serangan": [
+		"surprise"
+	],
+	"serangga": [
+		"disgust",
+		"fear"
+	],
+	"serbet": [
+		"sadness"
+	],
+	"serempak": [
+		"joy"
+	],
+	"serpihan": [
+		"disgust"
+	],
+	"seru": [
+		"joy"
+	],
+	"sesat": [
+		"disgust"
+	],
+	"sesekali": [
+		"surprise"
+	],
+	"sesuai": [
+		"joy"
+	],
+	"sesungguhnya": [
+		"joy"
+	],
+	"setan": [
+		"anger"
+	],
+	"setia": [
+		"joy"
+	],
+	"setuju": [
+		"joy"
+	],
+	"sewenang-wenang": [
+		"fear"
+	],
+	"sia-sia": [
+		"sadness"
+	],
+	"sial": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sianida": [
+		"fear"
+	],
+	"sifat takut-takut": [
+		"fear"
+	],
+	"sifat tidak bermoral": [
+		"anger",
+		"disgust"
+	],
+	"sihir": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"sikap berat sebelah": [
+		"anger"
+	],
+	"sikap kikuk": [
+		"disgust"
+	],
+	"sikap permusuhan": [
+		"anger"
+	],
+	"siksa": [
+		"fear"
+	],
+	"siksaan": [
+		"anger",
+		"surprise"
+	],
+	"siku": [
+		"anger"
+	],
+	"silau": [
+		"anger",
+		"fear"
+	],
+	"simbolis": [
+		"joy"
+	],
+	"simetri": [
+		"joy"
+	],
+	"simetris": [
+		"joy"
+	],
+	"simfoni": [
+		"joy"
+	],
+	"simpati": [
+		"sadness"
+	],
+	"simpatik": [
+		"fear",
+		"joy",
+		"sadness"
+	],
+	"sinar": [
+		"joy"
+	],
+	"singa": [
+		"fear"
+	],
+	"sinkop": [
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"sinkronisasi": [
+		"joy",
+		"surprise"
+	],
+	"sinonim": [
+		"fear"
+	],
+	"sipir": [
+		"anger",
+		"fear"
+	],
+	"siput": [
+		"disgust"
+	],
+	"sirene": [
+		"fear"
+	],
+	"sisa": [
+		"disgust",
+		"fear"
+	],
+	"sistem": [
+		"fear"
+	],
+	"sitomegalovirus": [
+		"sadness"
+	],
+	"skandal": [
+		"fear"
+	],
+	"skizofrenia": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"skor": [
+		"joy",
+		"surprise"
+	],
+	"slogan": [
+		"anger",
+		"joy",
+		"surprise"
+	],
+	"sobat": [
+		"joy"
+	],
+	"sofa": [
+		"sadness"
+	],
+	"solidaritas": [
+		"joy"
+	],
+	"somatik": [
+		"surprise"
+	],
+	"sombong": [
+		"anger",
+		"fear"
+	],
+	"sonet": [
+		"joy",
+		"sadness"
+	],
+	"sopan": [
+		"joy"
+	],
+	"sorakan": [
+		"joy",
+		"surprise"
+	],
+	"sosialis": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"sosialisme": [
+		"disgust",
+		"fear"
+	],
+	"spa": [
+		"joy",
+		"surprise"
+	],
+	"spaniel": [
+		"joy"
+	],
+	"spektakuler": [
+		"surprise"
+	],
+	"spekulasi": [
+		"fear",
+		"sadness"
+	],
+	"spesial": [
+		"joy"
+	],
+	"spesialis": [
+		"joy"
+	],
+	"sprite": [
+		"fear"
+	],
+	"stabil": [
+		"surprise"
+	],
+	"steril": [
+		"sadness"
+	],
+	"sterling": [
+		"anger",
+		"joy"
+	],
+	"stigma": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"strategis": [
+		"joy"
+	],
+	"suaka": [
+		"joy"
+	],
+	"suami yang istrinya tidak setia": [
+		"disgust"
+	],
+	"suap": [
+		"disgust"
+	],
+	"suara ledakan": [
+		"anger"
+	],
+	"subito": [
+		"surprise"
+	],
+	"sublimasi": [
+		"joy"
+	],
+	"subsidi": [
+		"anger",
+		"disgust"
+	],
+	"subur": [
+		"joy"
+	],
+	"subversi": [
+		"anger",
+		"fear"
+	],
+	"subversif": [
+		"anger",
+		"surprise"
+	],
+	"suci": [
+		"joy",
+		"surprise"
+	],
+	"suka beperkara": [
+		"anger",
+		"disgust"
+	],
+	"suka bertengkar": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"suka menyeleweng": [
+		"disgust"
+	],
+	"suka menyerang": [
+		"anger",
+		"fear"
+	],
+	"sukacita": [
+		"joy"
+	],
+	"sukar dipahami": [
+		"surprise"
+	],
+	"sukar": [
+		"anger",
+		"sadness"
+	],
+	"sukarelawan": [
+		"joy",
+		"fear"
+	],
+	"sulap": [
+		"joy"
+	],
+	"sulit": [
+		"fear"
+	],
+	"sultan": [
+		"fear"
+	],
+	"sulung": [
+		"joy"
+	],
+	"sumbang": [
+		"disgust"
+	],
+	"sumbangan": [
+		"disgust"
+	],
+	"sumber daya": [
+		"joy"
+	],
+	"sumber keuntungan": [
+		"joy"
+	],
+	"sumpah palsu": [
+		"fear",
+		"surprise"
+	],
+	"sumpah": [
+		"joy"
+	],
+	"sumsum": [
+		"joy"
+	],
+	"suntikan": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"superstar": [
+		"joy"
+	],
+	"supremasi": [
+		"anger",
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"suram": [
+		"disgust",
+		"sadness"
+	],
+	"surga": [
+		"joy"
+	],
+	"surgawi": [
+		"joy"
+	],
+	"suri teladan": [
+		"joy"
+	],
+	"surutnya": [
+		"disgust"
+	],
+	"syaitan": [
+		"disgust",
+		"fear"
+	],
+	"tabah": [
+		"joy"
+	],
+	"tabrakan": [
+		"anger"
+	],
+	"tabu": [
+		"disgust",
+		"fear"
+	],
+	"tabungan": [
+		"joy",
+		"fear"
+	],
+	"tahan": [
+		"fear"
+	],
+	"tahanan": [
+		"disgust",
+		"fear"
+	],
+	"tajam": [
+		"fear"
+	],
+	"tak berarti": [
+		"sadness"
+	],
+	"tak berbalas": [
+		"sadness"
+	],
+	"tak berdasar": [
+		"fear"
+	],
+	"tak berdaya": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tak berjiwa": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tak berkesudahan": [
+		"anger"
+	],
+	"tak bermutu": [
+		"disgust"
+	],
+	"tak bernyawa": [
+		"fear",
+		"sadness"
+	],
+	"tak bertuhan": [
+		"anger"
+	],
+	"tak berujung": [
+		"anger",
+		"fear",
+		"joy",
+		"sadness"
+	],
+	"tak disengaja": [
+		"surprise"
+	],
+	"tak kenal ampun": [
+		"anger",
+		"sadness"
+	],
+	"tak layak": [
+		"disgust"
+	],
+	"tak menentu": [
+		"surprise"
+	],
+	"tak sedap dipandang": [
+		"disgust"
+	],
+	"tak tahu malu": [
+		"disgust"
+	],
+	"tak terbayangkan": [
+		"surprise"
+	],
+	"tak terduga": [
+		"surprise"
+	],
+	"tak terjangkau": [
+		"anger",
+		"sadness"
+	],
+	"tak terkalahkan": [
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"tak terkatakan": [
+		"fear"
+	],
+	"tak terkekang": [
+		"anger",
+		"fear",
+		"surprise"
+	],
+	"tak terkendali": [
+		"anger",
+		"surprise"
+	],
+	"tak terpikirkan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"tak terpisahkan": [
+		"joy"
+	],
+	"tak tersembuhkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tak tertahankan": [
+		"disgust",
+		"sadness"
+	],
+	"tak tertandingi": [
+		"fear",
+		"joy"
+	],
+	"takhta": [
+		"joy"
+	],
+	"takhyul": [
+		"fear"
+	],
+	"taktik": [
+		"fear"
+	],
+	"takut": [
+		"fear",
+		"surprise"
+	],
+	"tali leher kuda": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tamak": [
+		"disgust"
+	],
+	"taman": [
+		"joy"
+	],
+	"tampak jelas": [
+		"fear"
+	],
+	"tamparan": [
+		"anger"
+	],
+	"tanah longsor": [
+		"fear",
+		"sadness"
+	],
+	"tanah": [
+		"disgust"
+	],
+	"tanda bahaya": [
+		"fear",
+		"surprise"
+	],
+	"tanda buruk": [
+		"fear",
+		"sadness"
+	],
+	"tandu jenazah": [
+		"fear",
+		"sadness"
+	],
+	"tandus": [
+		"sadness"
+	],
+	"tanggal kematian": [
+		"sadness",
+		"surprise"
+	],
+	"tangguh": [
+		"joy"
+	],
+	"tangisan": [
+		"sadness"
+	],
+	"tangkai": [
+		"fear"
+	],
+	"tanpa belas kasihan": [
+		"fear"
+	],
+	"tanpa berpikir": [
+		"anger",
+		"disgust"
+	],
+	"tanpa harapan": [
+		"fear",
+		"sadness"
+	],
+	"tanpa judul": [
+		"sadness"
+	],
+	"tanpa nama": [
+		"disgust"
+	],
+	"tanpa takut": [
+		"fear"
+	],
+	"tanpa tubuh": [
+		"fear",
+		"sadness"
+	],
+	"tantangan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"tarif": [
+		"anger",
+		"disgust"
+	],
+	"taring": [
+		"fear"
+	],
+	"tawa": [
+		"joy",
+		"surprise"
+	],
+	"tawanan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tebing": [
+		"fear"
+	],
+	"tebu, tongkat": [
+		"anger",
+		"fear"
+	],
+	"tebusan": [
+		"anger",
+		"fear"
+	],
+	"teduh": [
+		"fear"
+	],
+	"tegang": [
+		"anger"
+	],
+	"tegar": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"tegas": [
+		"joy",
+		"anger"
+	],
+	"teguh": [
+		"joy"
+	],
+	"teguran": [
+		"anger"
+	],
+	"teka-teki": [
+		"surprise"
+	],
+	"tekanan": [
+		"sadness",
+		"anger"
+	],
+	"teknologi": [
+		"joy"
+	],
+	"tekun": [
+		"joy"
+	],
+	"teladan": [
+		"joy"
+	],
+	"telanjang": [
+		"disgust"
+	],
+	"teliti": [
+		"joy"
+	],
+	"teluk": [
+		"disgust",
+		"fear",
+		"joy"
+	],
+	"teman": [
+		"joy"
+	],
+	"tembakan": [
+		"anger",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"tembakau": [
+		"disgust"
+	],
+	"tembel": [
+		"disgust"
+	],
+	"tempat bermain": [
+		"joy",
+		"surprise"
+	],
+	"tempat lahir": [
+		"anger"
+	],
+	"tempat pengakuan": [
+		"fear"
+	],
+	"tempur": [
+		"anger",
+		"fear"
+	],
+	"tenaga kerja": [
+		"joy",
+		"surprise"
+	],
+	"tenang": [
+		"joy"
+	],
+	"tendangan": [
+		"anger"
+	],
+	"tenggelam": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tengik": [
+		"disgust"
+	],
+	"tentara": [
+		"anger",
+		"sadness"
+	],
+	"teokratis": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tepat waktu": [
+		"joy"
+	],
+	"tepat": [
+		"joy"
+	],
+	"tepi": [
+		"sadness"
+	],
+	"tepuk tangan": [
+		"sadness"
+	],
+	"tepuk": [
+		"joy"
+	],
+	"terakhir": [
+		"sadness"
+	],
+	"terang- terangan": [
+		"anger",
+		"disgust"
+	],
+	"terapeutik": [
+		"joy"
+	],
+	"terbatas": [
+		"anger",
+		"sadness"
+	],
+	"terbuang": [
+		"anger",
+		"disgust"
+	],
+	"terbuka": [
+		"fear"
+	],
+	"terbukti": [
+		"surprise"
+	],
+	"tercela": [
+		"anger",
+		"disgust"
+	],
+	"tercengang": [
+		"fear",
+		"surprise"
+	],
+	"terdakwa": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"terdampar": [
+		"fear",
+		"sadness"
+	],
+	"terdemoralisasi": [
+		"fear",
+		"sadness"
+	],
+	"terdepresiasi": [
+		"anger",
+		"disgust"
+	],
+	"terdistorsi": [
+		"disgust"
+	],
+	"terendah": [
+		"sadness"
+	],
+	"terengah-engah": [
+		"fear"
+	],
+	"terganggu": [
+		"sadness"
+	],
+	"tergelincir": [
+		"surprise"
+	],
+	"tergenang": [
+		"sadness"
+	],
+	"terguncang": [
+		"anger"
+	],
+	"terharu": [
+		"fear"
+	],
+	"terhenti": [
+		"anger"
+	],
+	"terhibur": [
+		"joy"
+	],
+	"terhormat": [
+		"joy"
+	],
+	"teriakan": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"terinspirasi": [
+		"joy",
+		"surprise"
+	],
+	"terjamin": [
+		"joy"
+	],
+	"terjang": [
+		"surprise"
+	],
+	"terjatuh": [
+		"sadness"
+	],
+	"terjerat": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"terjun": [
+		"fear"
+	],
+	"terkejut": [
+		"surprise"
+	],
+	"terkemuka": [
+		"joy"
+	],
+	"terkena": [
+		"sadness"
+	],
+	"terkenal jahat": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"terkendali": [
+		"fear"
+	],
+	"terkesiap": [
+		"surprise"
+	],
+	"terkilir": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"terkontaminasi": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"terkubur": [
+		"fear",
+		"sadness"
+	],
+	"terkunci": [
+		"fear",
+		"sadness"
+	],
+	"terkutuk": [
+		"fear",
+		"sadness"
+	],
+	"terlalu mahal": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"terlantar": [
+		"sadness"
+	],
+	"terluka": [
+		"fear",
+		"sadness"
+	],
+	"terlupakan": [
+		"fear",
+		"sadness"
+	],
+	"termenung": [
+		"sadness"
+	],
+	"terminal": [
+		"fear",
+		"sadness"
+	],
+	"ternoda": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"teror": [
+		"fear"
+	],
+	"terorganisir": [
+		"joy"
+	],
+	"teroris": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"terorisme": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"terpecah": [
+		"sadness"
+	],
+	"terpelajar": [
+		"joy"
+	],
+	"terpencil": [
+		"sadness"
+	],
+	"terpendam": [
+		"anger",
+		"disgust",
+		"surprise"
+	],
+	"terpenting": [
+		"joy"
+	],
+	"terpesona": [
+		"surprise"
+	],
+	"terpilih": [
+		"joy"
+	],
+	"terpuji": [
+		"joy",
+		"surprise"
+	],
+	"terputus": [
+		"sadness"
+	],
+	"tersakiti": [
+		"fear",
+		"sadness"
+	],
+	"tersandung": [
+		"anger",
+		"sadness"
+	],
+	"tersedak": [
+		"anger",
+		"sadness"
+	],
+	"tersembunyi": [
+		"sadness"
+	],
+	"tersenyum": [
+		"joy"
+	],
+	"tersesat": [
+		"fear"
+	],
+	"tersiksa": [
+		"fear"
+	],
+	"tersinggung": [
+		"anger",
+		"sadness"
+	],
+	"tertahan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tertarik": [
+		"disgust",
+		"sadness"
+	],
+	"tertawa kecil": [
+		"joy",
+		"surprise"
+	],
+	"tertawa": [
+		"joy"
+	],
+	"tertekan": [
+		"fear"
+	],
+	"tertib": [
+		"joy"
+	],
+	"tertinggal": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tertinggi": [
+		"joy",
+		"surprise"
+	],
+	"tertipu": [
+		"disgust"
+	],
+	"terurai": [
+		"sadness"
+	],
+	"tetanus": [
+		"disgust"
+	],
+	"tewas": [
+		"fear",
+		"sadness"
+	],
+	"theisme": [
+		"disgust"
+	],
+	"tiang gantungan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tiba-tiba": [
+		"surprise"
+	],
+	"tidak ada batasan": [
+		"surprise"
+	],
+	"tidak ada": [
+		"fear",
+		"sadness"
+	],
+	"tidak adil": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak aman": [
+		"fear"
+	],
+	"tidak bahagia": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak bekerja": [
+		"fear",
+		"sadness"
+	],
+	"tidak berbuah": [
+		"sadness"
+	],
+	"tidak berguna": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak bermoral": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak berpendidikan": [
+		"sadness"
+	],
+	"tidak berperasaan": [
+		"anger",
+		"disgust"
+	],
+	"tidak bertanggung jawab": [
+		"disgust",
+		"sadness"
+	],
+	"tidak beruntung": [
+		"fear",
+		"sadness"
+	],
+	"tidak bisa dijelaskan": [
+		"surprise"
+	],
+	"tidak bisa dimaafkan": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak curiga": [
+		"surprise"
+	],
+	"tidak dapat diatasi": [
+		"fear",
+		"sadness"
+	],
+	"tidak dapat didamaikan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tidak dapat dijelaskan": [
+		"sadness"
+	],
+	"tidak dapat diperbaiki": [
+		"fear",
+		"sadness"
+	],
+	"tidak dapat dipercaya": [
+		"anger"
+	],
+	"tidak dapat dipertahankan": [
+		"fear"
+	],
+	"tidak dapat disatukan": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"tidak dapat ditembus": [
+		"anger",
+		"fear"
+	],
+	"tidak dapat diterima": [
+		"sadness"
+	],
+	"tidak dapat": [
+		"sadness"
+	],
+	"tidak diakui": [
+		"sadness"
+	],
+	"tidak dibatasi": [
+		"joy"
+	],
+	"tidak dihargai": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak diinginkan": [
+		"sadness"
+	],
+	"tidak diizinkan": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak dikenal": [
+		"fear"
+	],
+	"tidak disengaja": [
+		"surprise"
+	],
+	"tidak disukai": [
+		"anger",
+		"sadness"
+	],
+	"tidak ditemukan": [
+		"surprise"
+	],
+	"tidak diterbitkan": [
+		"sadness"
+	],
+	"tidak diterima": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"tidak diundang": [
+		"sadness"
+	],
+	"tidak efektif": [
+		"disgust"
+	],
+	"tidak efisien": [
+		"sadness"
+	],
+	"tidak halus": [
+		"disgust"
+	],
+	"tidak hormat": [
+		"anger"
+	],
+	"tidak ingin": [
+		"sadness"
+	],
+	"tidak jujur": [
+		"disgust"
+	],
+	"tidak kompeten": [
+		"anger",
+		"disgust"
+	],
+	"tidak manusiawi": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak masuk akal": [
+		"sadness"
+	],
+	"tidak mematuhi": [
+		"anger",
+		"disgust"
+	],
+	"tidak mempercayai": [
+		"disgust",
+		"fear"
+	],
+	"tidak memuaskan": [
+		"disgust"
+	],
+	"tidak menyenangkan": [
+		"disgust",
+		"sadness"
+	],
+	"tidak menyetujui": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak normal": [
+		"disgust"
+	],
+	"tidak pantas": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak pasti": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"tidak patuh": [
+		"anger"
+	],
+	"tidak peduli": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak pengertian": [
+		"anger",
+		"disgust",
+		"sadness"
+	],
+	"tidak penting": [
+		"sadness"
+	],
+	"tidak percaya": [
+		"anger",
+		"disgust"
+	],
+	"tidak populer": [
+		"disgust",
+		"sadness"
+	],
+	"tidak puas": [
+		"disgust",
+		"sadness"
+	],
+	"tidak punya hati": [
+		"sadness"
+	],
+	"tidak ramah": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak sehat": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak senang": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak sengaja": [
+		"surprise"
+	],
+	"tidak senonoh": [
+		"disgust"
+	],
+	"tidak sesuai": [
+		"anger"
+	],
+	"tidak setara": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak setia": [
+		"disgust"
+	],
+	"tidak setuju": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tidak simpati": [
+		"anger"
+	],
+	"tidak sopan": [
+		"disgust"
+	],
+	"tidak stabil": [
+		"fear",
+		"surprise"
+	],
+	"tidak suci": [
+		"disgust"
+	],
+	"tidak tahu berterima kasih": [
+		"anger",
+		"disgust"
+	],
+	"tidak takut": [
+		"fear"
+	],
+	"tidak terduga": [
+		"fear",
+		"joy",
+		"surprise"
+	],
+	"tidak terinspirasi": [
+		"sadness"
+	],
+	"tidak terkendali": [
+		"disgust"
+	],
+	"tidak termasuk": [
+		"sadness"
+	],
+	"tidak terpenuhi": [
+		"anger",
+		"sadness",
+		"surprise"
+	],
+	"tidak tertarik": [
+		"sadness"
+	],
+	"tidak wajar": [
+		"disgust",
+		"fear"
+	],
+	"tidur sebentar": [
+		"joy"
+	],
+	"tikus": [
+		"disgust",
+		"fear"
+	],
+	"tim": [
+		"joy"
+	],
+	"tindakan yg bodoh": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tinggi": [
+		"fear"
+	],
+	"tinja": [
+		"disgust"
+	],
+	"tinju": [
+		"anger"
+	],
+	"tipu daya": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness",
+		"surprise"
+	],
+	"tipu": [
+		"surprise",
+		"sadness",
+		"anger"
+	],
+	"tipuan": [
+		"surprise"
+	],
+	"tiupan": [
+		"anger",
+		"disgust"
+	],
+	"toilet": [
+		"disgust"
+	],
+	"toksin": [
+		"fear"
+	],
+	"toleran": [
+		"joy"
+	],
+	"toleransi": [
+		"joy"
+	],
+	"tolol": [
+		"sadness",
+		"fear"
+	],
+	"tombak": [
+		"anger",
+		"fear"
+	],
+	"topan": [
+		"fear"
+	],
+	"torpedo": [
+		"anger"
+	],
+	"torrent": [
+		"fear"
+	],
+	"tragedi": [
+		"fear",
+		"sadness"
+	],
+	"tragis": [
+		"fear",
+		"sadness"
+	],
+	"traumatis": [
+		"anger",
+		"fear",
+		"sadness"
+	],
+	"troll": [
+		"anger",
+		"fear"
+	],
+	"truf": [
+		"surprise"
+	],
+	"tua": [
+		"joy"
+	],
+	"tuduhan": [
+		"fear",
+		"sadness"
+	],
+	"tuhan": [
+		"fear",
+		"joy"
+	],
+	"tujuan": [
+		"fear",
+		"joy",
+		"sadness",
+		"surprise"
+	],
+	"tukang daging": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"tulang belakang": [
+		"anger"
+	],
+	"tulang punggung": [
+		"anger"
+	],
+	"tuli": [
+		"sadness"
+	],
+	"tulus": [
+		"joy",
+		"sadness"
+	],
+	"tumbuh": [
+		"joy"
+	],
+	"tumor": [
+		"fear",
+		"sadness"
+	],
+	"tumpukan": [
+		"disgust"
+	],
+	"tunangan": [
+		"joy"
+	],
+	"tunawisma": [
+		"anger",
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"tungau": [
+		"disgust"
+	],
+	"tunggakan": [
+		"anger",
+		"sadness"
+	],
+	"tuntutan": [
+		"anger"
+	],
+	"turun": [
+		"fear",
+		"sadness"
+	],
+	"tusukan": [
+		"anger",
+		"disgust",
+		"fear",
+		"surprise"
+	],
+	"uang tunai": [
+		"anger",
+		"fear",
+		"joy"
+	],
+	"uang": [
+		"anger",
+		"joy",
+		"surprise"
+	],
+	"ucapan selamat": [
+		"joy"
+	],
+	"ucapan syukur": [
+		"joy"
+	],
+	"udara": [
+		"disgust"
+	],
+	"ular berbisa": [
+		"fear"
+	],
+	"ular derik": [
+		"fear"
+	],
+	"ular naga": [
+		"fear"
+	],
+	"ular": [
+		"disgust",
+		"fear"
+	],
+	"ulet": [
+		"joy"
+	],
+	"ultimatum": [
+		"anger",
+		"fear"
+	],
+	"umpan": [
+		"surprise"
+	],
+	"unggul": [
+		"joy",
+		"surprise"
+	],
+	"unggulan": [
+		"joy",
+		"surprise"
+	],
+	"unik": [
+		"surprise"
+	],
+	"untung": [
+		"joy"
+	],
+	"upacara": [
+		"joy",
+		"surprise"
+	],
+	"upah": [
+		"joy"
+	],
+	"urgensi": [
+		"fear",
+		"surprise"
+	],
+	"usungan": [
+		"fear",
+		"sadness"
+	],
+	"usus": [
+		"disgust"
+	],
+	"utama": [
+		"joy"
+	],
+	"utang": [
+		"sadness"
+	],
+	"utopis": [
+		"joy"
+	],
+	"vampir": [
+		"anger",
+		"disgust",
+		"fear"
+	],
+	"variabel": [
+		"surprise"
+	],
+	"varisela": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"vegetatif": [
+		"disgust",
+		"sadness"
+	],
+	"vertigo": [
+		"fear"
+	],
+	"vesikular": [
+		"disgust"
+	],
+	"virus herpes": [
+		"disgust"
+	],
+	"virus": [
+		"fear",
+		"disgust",
+		"sadness"
+	],
+	"visioner": [
+		"joy"
+	],
+	"vulgar": [
+		"disgust"
+	],
+	"wabah": [
+		"disgust",
+		"fear",
+		"sadness"
+	],
+	"wanita tua": [
+		"disgust",
+		"fear"
+	],
+	"warisan": [
+		"joy",
+		"surprise"
+	],
+	"waspada": [
+		"fear"
+	],
+	"wc": [
+		"disgust"
+	],
+	"wiski": [
+		"fear"
+	],
+	"xenofobia": [
+		"fear"
+	],
+	"yurisprudensi": [
+		"sadness"
+	],
+	"zina": [
+		"disgust",
+		"sadness"
+	]
+}
