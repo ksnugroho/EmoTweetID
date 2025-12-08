@@ -1,6 +1,6 @@
 # EmoTweetID: Indonesian Emotion Tweet Dataset
 
-This repository contains the full workflow and scripts used to construct the [**EmoTweetID**](https://doi.org/10.17632/jzgnjsff9f.3) dataset, including tweet scraping, preprocessing, annotation, and word embedding training.
+This repository contains the full workflow and scripts used to construct the [**EmoTweetID**](https://doi.org/10.17632/jzgnjsff9f.5) dataset, including tweet scraping, preprocessing, annotation, and word embedding training.
 
 ## Repository Contents
 
